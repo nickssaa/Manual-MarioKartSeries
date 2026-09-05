@@ -1,0 +1,2238 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
+  "SMK": {
+    "connects_to": [
+      "SMK Mushroom Cup (50cc)",
+      "SMK Mushroom Cup (100cc)",
+      "SMK Mushroom Cup (150cc)",
+      "SMK Mushroom Cup (TT)",
+      "SMK Flower Cup (50cc)",
+      "SMK Flower Cup (100cc)",
+      "SMK Flower Cup (150cc)",
+      "SMK Flower Cup (TT)",
+      "SMK Star Cup (50cc)",
+      "SMK Star Cup (100cc)",
+      "SMK Star Cup (150cc)",
+      "SMK Star Cup (TT)",
+      "SMK Special Cup (50cc)",
+      "SMK Special Cup (100cc)",
+      "SMK Special Cup (150cc)",
+      "SMK Special Cup (TT)"
+    ],
+    "starting": true,
+    "requires": "|Super Mario Kart| AND |@Characters (SMK)| AND |Pipe Frame|"
+  },
+  "SMK Mushroom Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (50cc)|"
+  },
+  "SMK Mushroom Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (100cc)|"
+  },
+  "SMK Mushroom Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (150cc)|"
+  },
+  "SMK Mushroom Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (SMK)|"
+  },
+  "SMK Flower Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (50cc)|"
+  },
+  "SMK Flower Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (100cc)|"
+  },
+  "SMK Flower Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (150cc)|"
+  },
+  "SMK Flower Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (SMK)|"
+  },
+  "SMK Star Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (50cc)|"
+  },
+  "SMK Star Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (100cc)|"
+  },
+  "SMK Star Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (150cc)|"
+  },
+  "SMK Star Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (SMK)|"
+  },
+  "SMK Special Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (50cc)|"
+  },
+  "SMK Special Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (100cc)|"
+  },
+  "SMK Special Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (150cc)|"
+  },
+  "SMK Special Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (SMK)|"
+  },
+  "MK64": {
+    "connects_to": [
+      "MK64 Mushroom Cup (50cc)",
+      "MK64 Mushroom Cup (100cc)",
+      "MK64 Mushroom Cup (150cc)",
+      "MK64 Mushroom Cup (EM)",
+      "MK64 Mushroom Cup (TT)",
+      "MK64 Flower Cup (50cc)",
+      "MK64 Flower Cup (100cc)",
+      "MK64 Flower Cup (150cc)",
+      "MK64 Flower Cup (EM)",
+      "MK64 Flower Cup (TT)",
+      "MK64 Star Cup (50cc)",
+      "MK64 Star Cup (100cc)",
+      "MK64 Star Cup (150cc)",
+      "MK64 Star Cup (EM)",
+      "MK64 Star Cup (TT)",
+      "MK64 Special Cup (50cc)",
+      "MK64 Special Cup (100cc)",
+      "MK64 Special Cup (150cc)",
+      "MK64 Special Cup (EM)",
+      "MK64 Special Cup (TT)"
+    ],
+    "starting": true,
+    "requires": "|Mario Kart 64| AND |@Characters (MK64)| AND |Pipe Frame|"
+  },
+  "MK64 Mushroom Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (50cc)|"
+  },
+  "MK64 Mushroom Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (100cc)|"
+  },
+  "MK64 Mushroom Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (150cc)|"
+  },
+  "MK64 Mushroom Cup (EM)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (MM/EM)|"
+  },
+  "MK64 Mushroom Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK64)|"
+  },
+  "MK64 Flower Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (50cc)|"
+  },
+  "MK64 Flower Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (100cc)|"
+  },
+  "MK64 Flower Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (150cc)|"
+  },
+  "MK64 Flower Cup (EM)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (MM/EM)|"
+  },
+  "MK64 Flower Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK64)|"
+  },
+  "MK64 Star Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (50cc)|"
+  },
+  "MK64 Star Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (100cc)|"
+  },
+  "MK64 Star Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (150cc)|"
+  },
+  "MK64 Star Cup (EM)": {
+    "connects_to": [],
+    "requires": "|Star Cup (MM/EM)|"
+  },
+  "MK64 Star Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK64)|"
+  },
+  "MK64 Special Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (50cc)|"
+  },
+  "MK64 Special Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (100cc)|"
+  },
+  "MK64 Special Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (150cc)|"
+  },
+  "MK64 Special Cup (EM)": {
+    "connects_to": [],
+    "requires": "|Special Cup (MM/EM)|"
+  },
+  "MK64 Special Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK64)|"
+  },
+  "MKSC": {
+    "connects_to": [
+      "MKSC Mushroom Cup (50cc)",
+      "MKSC Mushroom Cup (100cc)",
+      "MKSC Mushroom Cup (150cc)",
+      "MKSC Mushroom Cup (TT)",
+      "MKSC Flower Cup (50cc)",
+      "MKSC Flower Cup (100cc)",
+      "MKSC Flower Cup (150cc)",
+      "MKSC Flower Cup (TT)",
+      "MKSC Lightning Cup (50cc)",
+      "MKSC Lightning Cup (100cc)",
+      "MKSC Lightning Cup (150cc)",
+      "MKSC Lightning Cup (TT)",
+      "MKSC Star Cup (50cc)",
+      "MKSC Star Cup (100cc)",
+      "MKSC Star Cup (150cc)",
+      "MKSC Star Cup (TT)",
+      "MKSC Special Cup (50cc)",
+      "MKSC Special Cup (100cc)",
+      "MKSC Special Cup (150cc)",
+      "MKSC Special Cup (TT)"
+    ],
+    "starting": true,
+    "requires": "|Mario Kart Super Circuit| AND |@Characters (MKSC)| AND |Pipe Frame|"
+  },
+  "MKSC Mushroom Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (50cc)|"
+  },
+  "MKSC Mushroom Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (100cc)|"
+  },
+  "MKSC Mushroom Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (150cc)|"
+  },
+  "MKSC Mushroom Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKSC)|"
+  },
+  "MKSC Flower Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (50cc)|"
+  },
+  "MKSC Flower Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (100cc)|"
+  },
+  "MKSC Flower Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (150cc)|"
+  },
+  "MKSC Flower Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKSC)|"
+  },
+  "MKSC Lightning Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (50cc)|"
+  },
+  "MKSC Lightning Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (100cc)|"
+  },
+  "MKSC Lightning Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (150cc)|"
+  },
+  "MKSC Lightning Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKSC)|"
+  },
+  "MKSC Star Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (50cc)|"
+  },
+  "MKSC Star Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (100cc)|"
+  },
+  "MKSC Star Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (150cc)|"
+  },
+  "MKSC Star Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKSC)|"
+  },
+  "MKSC Special Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (50cc)|"
+  },
+  "MKSC Special Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (100cc)|"
+  },
+  "MKSC Special Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (150cc)|"
+  },
+  "MKSC Special Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKSC)|"
+  },
+  "MKSC Extra": {
+    "connects_to": [
+      "MKSC Extra Mushroom Cup (50cc)",
+      "MKSC Extra Mushroom Cup (100cc)",
+      "MKSC Extra Mushroom Cup (150cc)",
+      "MKSC Extra Mushroom Cup (TT)",
+      "MKSC Extra Flower Cup (50cc)",
+      "MKSC Extra Flower Cup (100cc)",
+      "MKSC Extra Flower Cup (150cc)",
+      "MKSC Extra Flower Cup (TT)",
+      "MKSC Extra Lightning Cup (50cc)",
+      "MKSC Extra Lightning Cup (100cc)",
+      "MKSC Extra Lightning Cup (150cc)",
+      "MKSC Extra Lightning Cup (TT)",
+      "MKSC Extra Star Cup (50cc)",
+      "MKSC Extra Star Cup (100cc)",
+      "MKSC Extra Star Cup (150cc)",
+      "MKSC Extra Star Cup (TT)",
+      "MKSC Extra Special Cup (50cc)",
+      "MKSC Extra Special Cup (100cc)",
+      "MKSC Extra Special Cup (150cc)",
+      "MKSC Extra Special Cup (TT)"
+    ],
+    "starting": true,
+    "requires": "|MKSC Extra Tracks| AND |@Characters (MKSC)| AND |Pipe Frame|"
+  },
+  "MKSC Extra Mushroom Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (50cc)|"
+  },
+  "MKSC Extra Mushroom Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (100cc)|"
+  },
+  "MKSC Extra Mushroom Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (150cc)|"
+  },
+  "MKSC Extra Mushroom Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKSC)|"
+  },
+  "MKSC Extra Flower Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (50cc)|"
+  },
+  "MKSC Extra Flower Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (100cc)|"
+  },
+  "MKSC Extra Flower Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (150cc)|"
+  },
+  "MKSC Extra Flower Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKSC)|"
+  },
+  "MKSC Extra Lightning Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (50cc)|"
+  },
+  "MKSC Extra Lightning Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (100cc)|"
+  },
+  "MKSC Extra Lightning Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (150cc)|"
+  },
+  "MKSC Extra Lightning Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKSC)|"
+  },
+  "MKSC Extra Star Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (50cc)|"
+  },
+  "MKSC Extra Star Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (100cc)|"
+  },
+  "MKSC Extra Star Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (150cc)|"
+  },
+  "MKSC Extra Star Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKSC)|"
+  },
+  "MKSC Extra Special Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (50cc)|"
+  },
+  "MKSC Extra Special Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (100cc)|"
+  },
+  "MKSC Extra Special Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (150cc)|"
+  },
+  "MKSC Extra Special Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKSC)|"
+  },
+  "MKDD": {
+    "connects_to": [
+      "MKDD Mushroom Cup (50cc)",
+      "MKDD Mushroom Cup (100cc)",
+      "MKDD Mushroom Cup (150cc)",
+      "MKDD Mushroom Cup (MM)",
+      "MKDD Mushroom Cup (TT)",
+      "MKDD Flower Cup (50cc)",
+      "MKDD Flower Cup (100cc)",
+      "MKDD Flower Cup (150cc)",
+      "MKDD Flower Cup (MM)",
+      "MKDD Flower Cup (TT)",
+      "MKDD Star Cup (50cc)",
+      "MKDD Star Cup (100cc)",
+      "MKDD Star Cup (150cc)",
+      "MKDD Star Cup (MM)",
+      "MKDD Star Cup (TT)",
+      "MKDD Special Cup (50cc)",
+      "MKDD Special Cup (100cc)",
+      "MKDD Special Cup (150cc)",
+      "MKDD Special Cup (MM)",
+      "MKDD Special Cup (TT)",
+      "MKDD All Cup Tour"
+    ],
+    "starting": true,
+    "requires": "|Mario Kart Double Dash!!| AND |@Characters (MKDD):2| AND |@Heavy Karts (MKDD)|"
+  },
+  "MKDD Mushroom Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (50cc)|"
+  },
+  "MKDD Mushroom Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (100cc)|"
+  },
+  "MKDD Mushroom Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (150cc)|"
+  },
+  "MKDD Mushroom Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (MM/EM)|"
+  },
+  "MKDD Mushroom Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKDD)|"
+  },
+  "MKDD Flower Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (50cc)|"
+  },
+  "MKDD Flower Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (100cc)|"
+  },
+  "MKDD Flower Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (150cc)|"
+  },
+  "MKDD Flower Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (MM/EM)|"
+  },
+  "MKDD Flower Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKDD)|"
+  },
+  "MKDD Star Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (50cc)|"
+  },
+  "MKDD Star Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (100cc)|"
+  },
+  "MKDD Star Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (150cc)|"
+  },
+  "MKDD Star Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Star Cup (MM/EM)|"
+  },
+  "MKDD Star Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKDD)|"
+  },
+  "MKDD Special Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (50cc)|"
+  },
+  "MKDD Special Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (100cc)|"
+  },
+  "MKDD Special Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (150cc)|"
+  },
+  "MKDD Special Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Special Cup (MM/EM)|"
+  },
+  "MKDD Special Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKDD)|"
+  },
+  "MKDD All Cup Tour": {
+    "connects_to": [],
+    "requires": "|All Cup Tour|"
+  },
+  "MKDS": {
+    "connects_to": [
+      "MKDS Mushroom Cup (50cc)",
+      "MKDS Mushroom Cup (100cc)",
+      "MKDS Mushroom Cup (150cc)",
+      "MKDS Mushroom Cup (MM)",
+      "MKDS Mushroom Cup (TT)",
+      "MKDS Flower Cup (50cc)",
+      "MKDS Flower Cup (100cc)",
+      "MKDS Flower Cup (150cc)",
+      "MKDS Flower Cup (MM)",
+      "MKDS Flower Cup (TT)",
+      "MKDS Star Cup (50cc)",
+      "MKDS Star Cup (100cc)",
+      "MKDS Star Cup (150cc)",
+      "MKDS Star Cup (MM)",
+      "MKDS Star Cup (TT)",
+      "MKDS Special Cup (50cc)",
+      "MKDS Special Cup (100cc)",
+      "MKDS Special Cup (150cc)",
+      "MKDS Special Cup (MM)",
+      "MKDS Special Cup (TT)",
+      "MKDS Shell Cup (50cc)",
+      "MKDS Shell Cup (100cc)",
+      "MKDS Shell Cup (150cc)",
+      "MKDS Shell Cup (MM)",
+      "MKDS Shell Cup (TT)",
+      "MKDS Banana Cup (50cc)",
+      "MKDS Banana Cup (100cc)",
+      "MKDS Banana Cup (150cc)",
+      "MKDS Banana Cup (MM)",
+      "MKDS Banana Cup (TT)",
+      "MKDS Leaf Cup (50cc)",
+      "MKDS Leaf Cup (100cc)",
+      "MKDS Leaf Cup (150cc)",
+      "MKDS Leaf Cup (MM)",
+      "MKDS Leaf Cup (TT)",
+      "MKDS Lightning Cup (50cc)",
+      "MKDS Lightning Cup (100cc)",
+      "MKDS Lightning Cup (150cc)",
+      "MKDS Lightning Cup (MM)",
+      "MKDS Lightning Cup (TT)"
+    ],
+    "starting": true,
+    "requires": "|Mario Kart DS| AND |@Characters (MKDS)| AND |@Karts (MKDS)|"
+  },
+  "MKDS Mushroom Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (50cc)|"
+  },
+  "MKDS Mushroom Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (100cc)|"
+  },
+  "MKDS Mushroom Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (150cc)|"
+  },
+  "MKDS Mushroom Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (MM/EM)|"
+  },
+  "MKDS Mushroom Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKDS)|"
+  },
+  "MKDS Flower Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (50cc)|"
+  },
+  "MKDS Flower Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (100cc)|"
+  },
+  "MKDS Flower Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (150cc)|"
+  },
+  "MKDS Flower Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (MM/EM)|"
+  },
+  "MKDS Flower Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKDS)|"
+  },
+  "MKDS Star Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (50cc)|"
+  },
+  "MKDS Star Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (100cc)|"
+  },
+  "MKDS Star Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (150cc)|"
+  },
+  "MKDS Star Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Star Cup (MM/EM)|"
+  },
+  "MKDS Star Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKDS)|"
+  },
+  "MKDS Special Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (50cc)|"
+  },
+  "MKDS Special Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (100cc)|"
+  },
+  "MKDS Special Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (150cc)|"
+  },
+  "MKDS Special Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Special Cup (MM/EM)|"
+  },
+  "MKDS Special Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKDS)|"
+  },
+  "MKDS Shell Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (50cc)|"
+  },
+  "MKDS Shell Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (100cc)|"
+  },
+  "MKDS Shell Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (150cc)|"
+  },
+  "MKDS Shell Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (MM/EM)|"
+  },
+  "MKDS Shell Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKDS)|"
+  },
+  "MKDS Banana Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (50cc)|"
+  },
+  "MKDS Banana Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (100cc)|"
+  },
+  "MKDS Banana Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (150cc)|"
+  },
+  "MKDS Banana Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (MM/EM)|"
+  },
+  "MKDS Banana Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKDS)|"
+  },
+  "MKDS Leaf Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (50cc)|"
+  },
+  "MKDS Leaf Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (100cc)|"
+  },
+  "MKDS Leaf Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (150cc)|"
+  },
+  "MKDS Leaf Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (MM/EM)|"
+  },
+  "MKDS Leaf Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKDS)|"
+  },
+  "MKDS Lightning Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (50cc)|"
+  },
+  "MKDS Lightning Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (100cc)|"
+  },
+  "MKDS Lightning Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (150cc)|"
+  },
+  "MKDS Lightning Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (MM/EM)|"
+  },
+  "MKDS Lightning Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKDS)|"
+  },
+  "MKWii": {
+    "connects_to": [
+      "MKWii Mushroom Cup (50cc)",
+      "MKWii Mushroom Cup (100cc)",
+      "MKWii Mushroom Cup (150cc)",
+      "MKWii Mushroom Cup (MM)",
+      "MKWii Mushroom Cup (TT)",
+      "MKWii Flower Cup (50cc)",
+      "MKWii Flower Cup (100cc)",
+      "MKWii Flower Cup (150cc)",
+      "MKWii Flower Cup (MM)",
+      "MKWii Flower Cup (TT)",
+      "MKWii Star Cup (50cc)",
+      "MKWii Star Cup (100cc)",
+      "MKWii Star Cup (150cc)",
+      "MKWii Star Cup (MM)",
+      "MKWii Star Cup (TT)",
+      "MKWii Special Cup (50cc)",
+      "MKWii Special Cup (100cc)",
+      "MKWii Special Cup (150cc)",
+      "MKWii Special Cup (MM)",
+      "MKWii Special Cup (TT)",
+      "MKWii Shell Cup (50cc)",
+      "MKWii Shell Cup (100cc)",
+      "MKWii Shell Cup (150cc)",
+      "MKWii Shell Cup (MM)",
+      "MKWii Shell Cup (TT)",
+      "MKWii Banana Cup (50cc)",
+      "MKWii Banana Cup (100cc)",
+      "MKWii Banana Cup (150cc)",
+      "MKWii Banana Cup (MM)",
+      "MKWii Banana Cup (TT)",
+      "MKWii Leaf Cup (50cc)",
+      "MKWii Leaf Cup (100cc)",
+      "MKWii Leaf Cup (150cc)",
+      "MKWii Leaf Cup (MM)",
+      "MKWii Leaf Cup (TT)",
+      "MKWii Lightning Cup (50cc)",
+      "MKWii Lightning Cup (100cc)",
+      "MKWii Lightning Cup (150cc)",
+      "MKWii Lightning Cup (MM)",
+      "MKWii Lightning Cup (TT)"
+    ],
+    "starting": true,
+    "requires": "|Mario Kart Wii| AND ((|@Small Characters (MKWii)| AND |@Small Karts (MKWii)|) OR (|@Medium Characters (MKWii)| AND |@Medium Karts (MKWii)|) OR (|@Large Characters (MKWii)| AND |@Large Karts (MKWii)|))"
+  },
+  "MKWii Mushroom Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (50cc)|"
+  },
+  "MKWii Mushroom Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (100cc)|"
+  },
+  "MKWii Mushroom Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (150cc)|"
+  },
+  "MKWii Mushroom Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (MM/EM)|"
+  },
+  "MKWii Mushroom Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKWii)|"
+  },
+  "MKWii Flower Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (50cc)|"
+  },
+  "MKWii Flower Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (100cc)|"
+  },
+  "MKWii Flower Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (150cc)|"
+  },
+  "MKWii Flower Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (MM/EM)|"
+  },
+  "MKWii Flower Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKWii)|"
+  },
+  "MKWii Star Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (50cc)|"
+  },
+  "MKWii Star Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (100cc)|"
+  },
+  "MKWii Star Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (150cc)|"
+  },
+  "MKWii Star Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Star Cup (MM/EM)|"
+  },
+  "MKWii Star Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKWii)|"
+  },
+  "MKWii Special Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (50cc)|"
+  },
+  "MKWii Special Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (100cc)|"
+  },
+  "MKWii Special Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (150cc)|"
+  },
+  "MKWii Special Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Special Cup (MM/EM)|"
+  },
+  "MKWii Special Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKWii)|"
+  },
+  "MKWii Shell Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (50cc)|"
+  },
+  "MKWii Shell Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (100cc)|"
+  },
+  "MKWii Shell Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (150cc)|"
+  },
+  "MKWii Shell Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (MM/EM)|"
+  },
+  "MKWii Shell Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKWii)|"
+  },
+  "MKWii Banana Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (50cc)|"
+  },
+  "MKWii Banana Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (100cc)|"
+  },
+  "MKWii Banana Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (150cc)|"
+  },
+  "MKWii Banana Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (MM/EM)|"
+  },
+  "MKWii Banana Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKWii)|"
+  },
+  "MKWii Leaf Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (50cc)|"
+  },
+  "MKWii Leaf Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (100cc)|"
+  },
+  "MKWii Leaf Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (150cc)|"
+  },
+  "MKWii Leaf Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (MM/EM)|"
+  },
+  "MKWii Leaf Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKWii)|"
+  },
+  "MKWii Lightning Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (50cc)|"
+  },
+  "MKWii Lightning Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (100cc)|"
+  },
+  "MKWii Lightning Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (150cc)|"
+  },
+  "MKWii Lightning Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (MM/EM)|"
+  },
+  "MKWii Lightning Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKWii)|"
+  },
+  "MK7": {
+    "connects_to": [
+      "MK7 Mushroom Cup (50cc)",
+      "MK7 Mushroom Cup (100cc)",
+      "MK7 Mushroom Cup (150cc)",
+      "MK7 Mushroom Cup (MM)",
+      "MK7 Mushroom Cup (TT)",
+      "MK7 Flower Cup (50cc)",
+      "MK7 Flower Cup (100cc)",
+      "MK7 Flower Cup (150cc)",
+      "MK7 Flower Cup (MM)",
+      "MK7 Flower Cup (TT)",
+      "MK7 Star Cup (50cc)",
+      "MK7 Star Cup (100cc)",
+      "MK7 Star Cup (150cc)",
+      "MK7 Star Cup (MM)",
+      "MK7 Star Cup (TT)",
+      "MK7 Special Cup (50cc)",
+      "MK7 Special Cup (100cc)",
+      "MK7 Special Cup (150cc)",
+      "MK7 Special Cup (MM)",
+      "MK7 Special Cup (TT)",
+      "MK7 Shell Cup (50cc)",
+      "MK7 Shell Cup (100cc)",
+      "MK7 Shell Cup (150cc)",
+      "MK7 Shell Cup (MM)",
+      "MK7 Shell Cup (TT)",
+      "MK7 Banana Cup (50cc)",
+      "MK7 Banana Cup (100cc)",
+      "MK7 Banana Cup (150cc)",
+      "MK7 Banana Cup (MM)",
+      "MK7 Banana Cup (TT)",
+      "MK7 Leaf Cup (50cc)",
+      "MK7 Leaf Cup (100cc)",
+      "MK7 Leaf Cup (150cc)",
+      "MK7 Leaf Cup (MM)",
+      "MK7 Leaf Cup (TT)",
+      "MK7 Lightning Cup (50cc)",
+      "MK7 Lightning Cup (100cc)",
+      "MK7 Lightning Cup (150cc)",
+      "MK7 Lightning Cup (MM)",
+      "MK7 Lightning Cup (TT)"
+    ],
+    "starting": true,
+    "requires": "|Mario Kart 7| AND |@Characters (MK7)| AND |@Karts (MK7)| AND |@Tires (MK7)| AND |@Gliders (MK7)|"
+  },
+  "MK7 Mushroom Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (50cc)|"
+  },
+  "MK7 Mushroom Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (100cc)|"
+  },
+  "MK7 Mushroom Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (150cc)|"
+  },
+  "MK7 Mushroom Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (MM/EM)|"
+  },
+  "MK7 Mushroom Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK7)|"
+  },
+  "MK7 Flower Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (50cc)|"
+  },
+  "MK7 Flower Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (100cc)|"
+  },
+  "MK7 Flower Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (150cc)|"
+  },
+  "MK7 Flower Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (MM/EM)|"
+  },
+  "MK7 Flower Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK7)|"
+  },
+  "MK7 Star Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (50cc)|"
+  },
+  "MK7 Star Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (100cc)|"
+  },
+  "MK7 Star Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (150cc)|"
+  },
+  "MK7 Star Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Star Cup (MM/EM)|"
+  },
+  "MK7 Star Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK7)|"
+  },
+  "MK7 Special Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (50cc)|"
+  },
+  "MK7 Special Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (100cc)|"
+  },
+  "MK7 Special Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (150cc)|"
+  },
+  "MK7 Special Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Special Cup (MM/EM)|"
+  },
+  "MK7 Special Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK7)|"
+  },
+  "MK7 Shell Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (50cc)|"
+  },
+  "MK7 Shell Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (100cc)|"
+  },
+  "MK7 Shell Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (150cc)|"
+  },
+  "MK7 Shell Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (MM/EM)|"
+  },
+  "MK7 Shell Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK7)|"
+  },
+  "MK7 Banana Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (50cc)|"
+  },
+  "MK7 Banana Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (100cc)|"
+  },
+  "MK7 Banana Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (150cc)|"
+  },
+  "MK7 Banana Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (MM/EM)|"
+  },
+  "MK7 Banana Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK7)|"
+  },
+  "MK7 Leaf Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (50cc)|"
+  },
+  "MK7 Leaf Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (100cc)|"
+  },
+  "MK7 Leaf Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (150cc)|"
+  },
+  "MK7 Leaf Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (MM/EM)|"
+  },
+  "MK7 Leaf Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK7)|"
+  },
+  "MK7 Lightning Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (50cc)|"
+  },
+  "MK7 Lightning Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (100cc)|"
+  },
+  "MK7 Lightning Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (150cc)|"
+  },
+  "MK7 Lightning Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (MM/EM)|"
+  },
+  "MK7 Lightning Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK7)|"
+  },
+  "MK8": {
+    "connects_to": [
+      "MK8 Mushroom Cup (50cc)",
+      "MK8 Mushroom Cup (100cc)",
+      "MK8 Mushroom Cup (150cc)",
+      "MK8 Mushroom Cup (MM)",
+      "MK8 Mushroom Cup (200cc)",
+      "MK8 Mushroom Cup (TT150)",
+      "MK8 Mushroom Cup (TT200)",
+      "MK8 Flower Cup (50cc)",
+      "MK8 Flower Cup (100cc)",
+      "MK8 Flower Cup (150cc)",
+      "MK8 Flower Cup (MM)",
+      "MK8 Flower Cup (200cc)",
+      "MK8 Flower Cup (TT150)",
+      "MK8 Flower Cup (TT200)",
+      "MK8 Star Cup (50cc)",
+      "MK8 Star Cup (100cc)",
+      "MK8 Star Cup (150cc)",
+      "MK8 Star Cup (MM)",
+      "MK8 Star Cup (200cc)",
+      "MK8 Star Cup (TT150)",
+      "MK8 Star Cup (TT200)",
+      "MK8 Special Cup (50cc)",
+      "MK8 Special Cup (100cc)",
+      "MK8 Special Cup (150cc)",
+      "MK8 Special Cup (MM)",
+      "MK8 Special Cup (200cc)",
+      "MK8 Special Cup (TT150)",
+      "MK8 Special Cup (TT200)",
+      "MK8 Shell Cup (50cc)",
+      "MK8 Shell Cup (100cc)",
+      "MK8 Shell Cup (150cc)",
+      "MK8 Shell Cup (MM)",
+      "MK8 Shell Cup (200cc)",
+      "MK8 Shell Cup (TT150)",
+      "MK8 Shell Cup (TT200)",
+      "MK8 Banana Cup (50cc)",
+      "MK8 Banana Cup (100cc)",
+      "MK8 Banana Cup (150cc)",
+      "MK8 Banana Cup (MM)",
+      "MK8 Banana Cup (200cc)",
+      "MK8 Banana Cup (TT150)",
+      "MK8 Banana Cup (TT200)",
+      "MK8 Leaf Cup (50cc)",
+      "MK8 Leaf Cup (100cc)",
+      "MK8 Leaf Cup (150cc)",
+      "MK8 Leaf Cup (MM)",
+      "MK8 Leaf Cup (200cc)",
+      "MK8 Leaf Cup (TT150)",
+      "MK8 Leaf Cup (TT200)",
+      "MK8 Lightning Cup (50cc)",
+      "MK8 Lightning Cup (100cc)",
+      "MK8 Lightning Cup (150cc)",
+      "MK8 Lightning Cup (MM)",
+      "MK8 Lightning Cup (200cc)",
+      "MK8 Lightning Cup (TT150)",
+      "MK8 Lightning Cup (TT200)",
+      "MK8 Egg Cup (50cc)",
+      "MK8 Egg Cup (100cc)",
+      "MK8 Egg Cup (150cc)",
+      "MK8 Egg Cup (MM)",
+      "MK8 Egg Cup (200cc)",
+      "MK8 Egg Cup (TT150)",
+      "MK8 Egg Cup (TT200)",
+      "MK8 Triforce Cup (50cc)",
+      "MK8 Triforce Cup (100cc)",
+      "MK8 Triforce Cup (150cc)",
+      "MK8 Triforce Cup (MM)",
+      "MK8 Triforce Cup (200cc)",
+      "MK8 Triforce Cup (TT150)",
+      "MK8 Triforce Cup (TT200)",
+      "MK8 Crossing Cup (50cc)",
+      "MK8 Crossing Cup (100cc)",
+      "MK8 Crossing Cup (150cc)",
+      "MK8 Crossing Cup (MM)",
+      "MK8 Crossing Cup (200cc)",
+      "MK8 Crossing Cup (TT150)",
+      "MK8 Crossing Cup (TT200)",
+      "MK8 Bell Cup (50cc)",
+      "MK8 Bell Cup (100cc)",
+      "MK8 Bell Cup (150cc)",
+      "MK8 Bell Cup (MM)",
+      "MK8 Bell Cup (200cc)",
+      "MK8 Bell Cup (TT150)",
+      "MK8 Bell Cup (TT200)",
+      "MK8 Golden Dash Cup (50cc)",
+      "MK8 Golden Dash Cup (100cc)",
+      "MK8 Golden Dash Cup (150cc)",
+      "MK8 Golden Dash Cup (MM)",
+      "MK8 Golden Dash Cup (200cc)",
+      "MK8 Golden Dash Cup (TT150)",
+      "MK8 Golden Dash Cup (TT200)",
+      "MK8 Lucky Cat Cup (50cc)",
+      "MK8 Lucky Cat Cup (100cc)",
+      "MK8 Lucky Cat Cup (150cc)",
+      "MK8 Lucky Cat Cup (MM)",
+      "MK8 Lucky Cat Cup (200cc)",
+      "MK8 Lucky Cat Cup (TT150)",
+      "MK8 Lucky Cat Cup (TT200)",
+      "MK8 Turnip Cup (50cc)",
+      "MK8 Turnip Cup (100cc)",
+      "MK8 Turnip Cup (150cc)",
+      "MK8 Turnip Cup (MM)",
+      "MK8 Turnip Cup (200cc)",
+      "MK8 Turnip Cup (TT150)",
+      "MK8 Turnip Cup (TT200)",
+      "MK8 Propeller Cup (50cc)",
+      "MK8 Propeller Cup (100cc)",
+      "MK8 Propeller Cup (150cc)",
+      "MK8 Propeller Cup (MM)",
+      "MK8 Propeller Cup (200cc)",
+      "MK8 Propeller Cup (TT150)",
+      "MK8 Propeller Cup (TT200)",
+      "MK8 Rock Cup (50cc)",
+      "MK8 Rock Cup (100cc)",
+      "MK8 Rock Cup (150cc)",
+      "MK8 Rock Cup (MM)",
+      "MK8 Rock Cup (200cc)",
+      "MK8 Rock Cup (TT150)",
+      "MK8 Rock Cup (TT200)",
+      "MK8 Moon Cup (50cc)",
+      "MK8 Moon Cup (100cc)",
+      "MK8 Moon Cup (150cc)",
+      "MK8 Moon Cup (MM)",
+      "MK8 Moon Cup (200cc)",
+      "MK8 Moon Cup (TT150)",
+      "MK8 Moon Cup (TT200)",
+      "MK8 Fruit Cup (50cc)",
+      "MK8 Fruit Cup (100cc)",
+      "MK8 Fruit Cup (150cc)",
+      "MK8 Fruit Cup (MM)",
+      "MK8 Fruit Cup (200cc)",
+      "MK8 Fruit Cup (TT150)",
+      "MK8 Fruit Cup (TT200)",
+      "MK8 Boomerang Cup (50cc)",
+      "MK8 Boomerang Cup (100cc)",
+      "MK8 Boomerang Cup (150cc)",
+      "MK8 Boomerang Cup (MM)",
+      "MK8 Boomerang Cup (200cc)",
+      "MK8 Boomerang Cup (TT150)",
+      "MK8 Boomerang Cup (TT200)",
+      "MK8 Feather Cup (50cc)",
+      "MK8 Feather Cup (100cc)",
+      "MK8 Feather Cup (150cc)",
+      "MK8 Feather Cup (MM)",
+      "MK8 Feather Cup (200cc)",
+      "MK8 Feather Cup (TT150)",
+      "MK8 Feather Cup (TT200)",
+      "MK8 Cherry Cup (50cc)",
+      "MK8 Cherry Cup (100cc)",
+      "MK8 Cherry Cup (150cc)",
+      "MK8 Cherry Cup (200cc)",
+      "MK8 Cherry Cup (MM)",
+      "MK8 Cherry Cup (TT150)",
+      "MK8 Cherry Cup (TT200)",
+      "MK8 Acorn Cup (50cc)",
+      "MK8 Acorn Cup (100cc)",
+      "MK8 Acorn Cup (150cc)",
+      "MK8 Acorn Cup (MM)",
+      "MK8 Acorn Cup (200cc)",
+      "MK8 Acorn Cup (TT150)",
+      "MK8 Acorn Cup (TT200)",
+      "MK8 Spiny Cup (50cc)",
+      "MK8 Spiny Cup (100cc)",
+      "MK8 Spiny Cup (150cc)",
+      "MK8 Spiny Cup (MM)",
+      "MK8 Spiny Cup (200cc)",
+      "MK8 Spiny Cup (TT150)",
+      "MK8 Spiny Cup (TT200)"
+    ],
+    "starting": true,
+    "requires": "|Mario Kart 8| AND |@Characters (MK8)| AND |@Karts (MK8)| AND |@Tires (MK8)| AND |@Gliders (MK8)|"
+  },
+  "MK8 Mushroom Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (50cc)|"
+  },
+  "MK8 Mushroom Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (100cc)|"
+  },
+  "MK8 Mushroom Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (150cc)|"
+  },
+  "MK8 Mushroom Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (MM/EM)|"
+  },
+  "MK8 Mushroom Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (200cc)|"
+  },
+  "MK8 Mushroom Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Mushroom Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Flower Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (50cc)|"
+  },
+  "MK8 Flower Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (100cc)|"
+  },
+  "MK8 Flower Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (150cc)|"
+  },
+  "MK8 Flower Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (MM/EM)|"
+  },
+  "MK8 Flower Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (200cc)|"
+  },
+  "MK8 Flower Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Flower Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Star Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (50cc)|"
+  },
+  "MK8 Star Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (100cc)|"
+  },
+  "MK8 Star Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (150cc)|"
+  },
+  "MK8 Star Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Star Cup (MM/EM)|"
+  },
+  "MK8 Star Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (200cc)|"
+  },
+  "MK8 Star Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Star Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Special Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (50cc)|"
+  },
+  "MK8 Special Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (100cc)|"
+  },
+  "MK8 Special Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (150cc)|"
+  },
+  "MK8 Special Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Special Cup (MM/EM)|"
+  },
+  "MK8 Special Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (200cc)|"
+  },
+  "MK8 Special Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Special Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Shell Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (50cc)|"
+  },
+  "MK8 Shell Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (100cc)|"
+  },
+  "MK8 Shell Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (150cc)|"
+  },
+  "MK8 Shell Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (200cc)|"
+  },
+  "MK8 Shell Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (MM/EM)|"
+  },
+  "MK8 Shell Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Shell Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Banana Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (50cc)|"
+  },
+  "MK8 Banana Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (100cc)|"
+  },
+  "MK8 Banana Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (150cc)|"
+  },
+  "MK8 Banana Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (MM/EM)|"
+  },
+  "MK8 Banana Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (200cc)|"
+  },
+  "MK8 Banana Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Banana Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Leaf Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (50cc)|"
+  },
+  "MK8 Leaf Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (100cc)|"
+  },
+  "MK8 Leaf Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (150cc)|"
+  },
+  "MK8 Leaf Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (MM/EM)|"
+  },
+  "MK8 Leaf Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (200cc)|"
+  },
+  "MK8 Leaf Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Leaf Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Lightning Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (50cc)|"
+  },
+  "MK8 Lightning Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (100cc)|"
+  },
+  "MK8 Lightning Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (150cc)|"
+  },
+  "MK8 Lightning Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (MM/EM)|"
+  },
+  "MK8 Lightning Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (200cc)|"
+  },
+  "MK8 Lightning Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Lightning Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Egg Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Egg Cup (50cc)|"
+  },
+  "MK8 Egg Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Egg Cup (100cc)|"
+  },
+  "MK8 Egg Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Egg Cup (150cc)|"
+  },
+  "MK8 Egg Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Egg Cup (MM/EM)|"
+  },
+  "MK8 Egg Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Egg Cup (200cc)|"
+  },
+  "MK8 Egg Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Egg Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Triforce Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Triforce Cup (50cc)|"
+  },
+  "MK8 Triforce Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Triforce Cup (100cc)|"
+  },
+  "MK8 Triforce Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Triforce Cup (150cc)|"
+  },
+  "MK8 Triforce Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Triforce Cup (MM/EM)|"
+  },
+  "MK8 Triforce Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Triforce Cup (200cc)|"
+  },
+  "MK8 Triforce Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Triforce Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Crossing Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Crossing Cup (50cc)|"
+  },
+  "MK8 Crossing Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Crossing Cup (100cc)|"
+  },
+  "MK8 Crossing Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Crossing Cup (150cc)|"
+  },
+  "MK8 Crossing Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Crossing Cup (MM/EM)|"
+  },
+  "MK8 Crossing Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Crossing Cup (200cc)|"
+  },
+  "MK8 Crossing Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Crossing Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Bell Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Bell Cup (50cc)|"
+  },
+  "MK8 Bell Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Bell Cup (100cc)|"
+  },
+  "MK8 Bell Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Bell Cup (150cc)|"
+  },
+  "MK8 Bell Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Bell Cup (MM/EM)|"
+  },
+  "MK8 Bell Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Bell Cup (200cc)|"
+  },
+  "MK8 Bell Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Bell Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Golden Dash Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Golden Dash Cup (50cc)|"
+  },
+  "MK8 Golden Dash Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Golden Dash Cup (100cc)|"
+  },
+  "MK8 Golden Dash Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Golden Dash Cup (150cc)|"
+  },
+  "MK8 Golden Dash Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Golden Dash Cup (MM/EM)|"
+  },
+  "MK8 Golden Dash Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Golden Dash Cup (200cc)|"
+  },
+  "MK8 Golden Dash Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Golden Dash Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Lucky Cat Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Lucky Cat Cup (50cc)|"
+  },
+  "MK8 Lucky Cat Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Lucky Cat Cup (100cc)|"
+  },
+  "MK8 Lucky Cat Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Lucky Cat Cup (150cc)|"
+  },
+  "MK8 Lucky Cat Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Lucky Cat Cup (MM/EM)|"
+  },
+  "MK8 Lucky Cat Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Lucky Cat Cup (200cc)|"
+  },
+  "MK8 Lucky Cat Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Lucky Cat Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Turnip Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Turnip Cup (50cc)|"
+  },
+  "MK8 Turnip Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Turnip Cup (100cc)|"
+  },
+  "MK8 Turnip Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Turnip Cup (150cc)|"
+  },
+  "MK8 Turnip Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Turnip Cup (MM/EM)|"
+  },
+  "MK8 Turnip Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Turnip Cup (200cc)|"
+  },
+  "MK8 Turnip Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Turnip Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Propeller Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Propeller Cup (50cc)|"
+  },
+  "MK8 Propeller Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Propeller Cup (100cc)|"
+  },
+  "MK8 Propeller Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Propeller Cup (150cc)|"
+  },
+  "MK8 Propeller Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Propeller Cup (MM/EM)|"
+  },
+  "MK8 Propeller Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Propeller Cup (200cc)|"
+  },
+  "MK8 Propeller Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Propeller Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Rock Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Rock Cup (50cc)|"
+  },
+  "MK8 Rock Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Rock Cup (100cc)|"
+  },
+  "MK8 Rock Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Rock Cup (150cc)|"
+  },
+  "MK8 Rock Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Rock Cup (MM/EM)|"
+  },
+  "MK8 Rock Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Rock Cup (200cc)|"
+  },
+  "MK8 Rock Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Rock Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Moon Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Moon Cup (50cc)|"
+  },
+  "MK8 Moon Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Moon Cup (100cc)|"
+  },
+  "MK8 Moon Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Moon Cup (150cc)|"
+  },
+  "MK8 Moon Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Moon Cup (MM/EM)|"
+  },
+  "MK8 Moon Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Moon Cup (200cc)|"
+  },
+  "MK8 Moon Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Moon Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Fruit Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Fruit Cup (50cc)|"
+  },
+  "MK8 Fruit Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Fruit Cup (100cc)|"
+  },
+  "MK8 Fruit Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Fruit Cup (150cc)|"
+  },
+  "MK8 Fruit Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Fruit Cup (MM/EM)|"
+  },
+  "MK8 Fruit Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Fruit Cup (200cc)|"
+  },
+  "MK8 Fruit Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Fruit Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Boomerang Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Boomerang Cup (50cc)|"
+  },
+  "MK8 Boomerang Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Boomerang Cup (100cc)|"
+  },
+  "MK8 Boomerang Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Boomerang Cup (150cc)|"
+  },
+  "MK8 Boomerang Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Boomerang Cup (MM/EM)|"
+  },
+  "MK8 Boomerang Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Boomerang Cup (200cc)|"
+  },
+  "MK8 Boomerang Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Boomerang Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Feather Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Feather Cup (50cc)|"
+  },
+  "MK8 Feather Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Feather Cup (100cc)|"
+  },
+  "MK8 Feather Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Feather Cup (150cc)|"
+  },
+  "MK8 Feather Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Feather Cup (200cc)|"
+  },
+  "MK8 Feather Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Feather Cup (MM/EM)|"
+  },
+  "MK8 Feather Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Feather Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Cherry Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Cherry Cup (50cc)|"
+  },
+  "MK8 Cherry Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Cherry Cup (100cc)|"
+  },
+  "MK8 Cherry Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Cherry Cup (150cc)|"
+  },
+  "MK8 Cherry Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Cherry Cup (MM/EM)|"
+  },
+  "MK8 Cherry Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Cherry Cup (200cc)|"
+  },
+  "MK8 Cherry Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Cherry Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Acorn Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Acorn Cup (50cc)|"
+  },
+  "MK8 Acorn Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Acorn Cup (100cc)|"
+  },
+  "MK8 Acorn Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Acorn Cup (150cc)|"
+  },
+  "MK8 Acorn Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Acorn Cup (MM/EM)|"
+  },
+  "MK8 Acorn Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Acorn Cup (200cc)|"
+  },
+  "MK8 Acorn Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Acorn Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MK8 Spiny Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Spiny Cup (50cc)|"
+  },
+  "MK8 Spiny Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Spiny Cup (100cc)|"
+  },
+  "MK8 Spiny Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Spiny Cup (150cc)|"
+  },
+  "MK8 Spiny Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Spiny Cup (MM/EM)|"
+  },
+  "MK8 Spiny Cup (200cc)": {
+    "connects_to": [],
+    "requires": "|Spiny Cup (200cc)|"
+  },
+  "MK8 Spiny Cup (TT150)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (150cc)|"
+  },
+  "MK8 Spiny Cup (TT200)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MK8) (200cc)|"
+  },
+  "MKWld": {
+    "connects_to": [
+      "MKWld Mushroom Cup (50cc)",
+      "MKWld Mushroom Cup (100cc)",
+      "MKWld Mushroom Cup (150cc)",
+      "MKWld Mushroom Cup (MM)",
+      "MKWld Mushroom Cup (TT)",
+      "MKWld Flower Cup (50cc)",
+      "MKWld Flower Cup (100cc)",
+      "MKWld Flower Cup (150cc)",
+      "MKWld Flower Cup (MM)",
+      "MKWld Flower Cup (TT)",
+      "MKWld Star Cup (50cc)",
+      "MKWld Star Cup (100cc)",
+      "MKWld Star Cup (150cc)",
+      "MKWld Star Cup (MM)",
+      "MKWld Star Cup (TT)",
+      "MKWld Special Cup (50cc)",
+      "MKWld Special Cup (100cc)",
+      "MKWld Special Cup (150cc)",
+      "MKWld Special Cup (MM)",
+      "MKWld Special Cup (TT)",
+      "MKWld Shell Cup (50cc)",
+      "MKWld Shell Cup (100cc)",
+      "MKWld Shell Cup (150cc)",
+      "MKWld Shell Cup (MM)",
+      "MKWld Shell Cup (TT)",
+      "MKWld Banana Cup (50cc)",
+      "MKWld Banana Cup (100cc)",
+      "MKWld Banana Cup (150cc)",
+      "MKWld Banana Cup (MM)",
+      "MKWld Banana Cup (TT)",
+      "MKWld Leaf Cup (50cc)",
+      "MKWld Leaf Cup (100cc)",
+      "MKWld Leaf Cup (150cc)",
+      "MKWld Leaf Cup (MM)",
+      "MKWld Leaf Cup (TT)",
+      "MKWld Lightning Cup (50cc)",
+      "MKWld Lightning Cup (100cc)",
+      "MKWld Lightning Cup (150cc)",
+      "MKWld Lightning Cup (MM)",
+      "MKWld Lightning Cup (TT)",
+      "MKWld Golden Rally",
+      "MKWld Ice Rally",
+      "MKWld Moon Rally",
+      "MKWld Spiny Rally",
+      "MKWld Cherry Rally",
+      "MKWld Acorn Rally",
+      "MKWld Cloud Rally",
+      "MKWld Heart Rally",
+      "MKWld Drill Rally",
+      "MKWld Boomerang Rally"
+    ],
+    "starting": true,
+    "requires": "|Mario Kart World| AND |@Characters (MKWld)| AND |@Karts (MKWld)|"
+  },
+  "MKWld Mushroom Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (50cc)|"
+  },
+  "MKWld Mushroom Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (100cc)|"
+  },
+  "MKWld Mushroom Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (150cc)|"
+  },
+  "MKWld Mushroom Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Mushroom Cup (MM/EM)|"
+  },
+  "MKWld Mushroom Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKWld)|"
+  },
+  "MKWld Flower Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (50cc)|"
+  },
+  "MKWld Flower Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (100cc)|"
+  },
+  "MKWld Flower Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (150cc)|"
+  },
+  "MKWld Flower Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Flower Cup (MM/EM)|"
+  },
+  "MKWld Flower Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKWld)|"
+  },
+  "MKWld Star Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (50cc)|"
+  },
+  "MKWld Star Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (100cc)|"
+  },
+  "MKWld Star Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Star Cup (150cc)|"
+  },
+  "MKWld Star Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Star Cup (MM/EM)|"
+  },
+  "MKWld Star Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKWld)|"
+  },
+  "MKWld Special Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (50cc)|"
+  },
+  "MKWld Special Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (100cc)|"
+  },
+  "MKWld Special Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Special Cup (150cc)|"
+  },
+  "MKWld Special Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Special Cup (MM/EM)|"
+  },
+  "MKWld Special Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKWld)|"
+  },
+  "MKWld Shell Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (50cc)|"
+  },
+  "MKWld Shell Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (100cc)|"
+  },
+  "MKWld Shell Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (150cc)|"
+  },
+  "MKWld Shell Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Shell Cup (MM/EM)|"
+  },
+  "MKWld Shell Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKWld)|"
+  },
+  "MKWld Banana Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (50cc)|"
+  },
+  "MKWld Banana Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (100cc)|"
+  },
+  "MKWld Banana Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (150cc)|"
+  },
+  "MKWld Banana Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Banana Cup (MM/EM)|"
+  },
+  "MKWld Banana Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKWld)|"
+  },
+  "MKWld Leaf Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (50cc)|"
+  },
+  "MKWld Leaf Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (100cc)|"
+  },
+  "MKWld Leaf Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (150cc)|"
+  },
+  "MKWld Leaf Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Leaf Cup (MM/EM)|"
+  },
+  "MKWld Leaf Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKWld)|"
+  },
+  "MKWld Lightning Cup (50cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (50cc)|"
+  },
+  "MKWld Lightning Cup (100cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (100cc)|"
+  },
+  "MKWld Lightning Cup (150cc)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (150cc)|"
+  },
+  "MKWld Lightning Cup (MM)": {
+    "connects_to": [],
+    "requires": "|Lightning Cup (MM/EM)|"
+  },
+  "MKWld Lightning Cup (TT)": {
+    "connects_to": [],
+    "requires": "|Time Trial (MKWld)|"
+  },
+  "MKWld Golden Rally": {
+    "connects_to": [],
+    "requires": "|Golden Rally|"
+  },
+  "MKWld Ice Rally": {
+    "connects_to": [],
+    "requires": "|Ice Rally|"
+  },
+  "MKWld Moon Rally": {
+    "connects_to": [],
+    "requires": "|Moon Rally|"
+  },
+  "MKWld Spiny Rally": {
+    "connects_to": [],
+    "requires": "|Spiny Rally|"
+  },
+  "MKWld Cherry Rally": {
+    "connects_to": [],
+    "requires": "|Cherry Rally|"
+  },
+  "MKWld Acorn Rally": {
+    "connects_to": [],
+    "requires": "|Acorn Rally|"
+  },
+  "MKWld Cloud Rally": {
+    "connects_to": [],
+    "requires": "|Cloud Rally|"
+  },
+  "MKWld Heart Rally": {
+    "connects_to": [],
+    "requires": "|Heart Rally|"
+  },
+  "MKWld Drill Rally": {
+    "connects_to": [],
+    "requires": "|Drill Rally|"
+  },
+  "MKWld Boomerang Rally": {
+    "connects_to": [],
+    "requires": "|Boomerang Rally|"
+  }
+}

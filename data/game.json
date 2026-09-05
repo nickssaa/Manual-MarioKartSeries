@@ -1,0 +1,167 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "MarioKartSeries",
+  "creator": "arg7",
+  "filler_item_name": "Coins",
+  "starting_items": [
+	  {
+		  "item_categories": ["Games"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Super Mario Kart",
+		  "item_categories": ["Characters (SMK)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Super Mario Kart",
+		  "item_categories": ["Cups (SMK)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Super Mario Kart",
+		  "items": ["Pipe Frame"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart 64",
+		  "item_categories": ["Characters (MK64)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart 64",
+		  "item_categories": ["Cups (MK64)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart 64",
+		  "items": ["Pipe Frame"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart Super Circuit",
+		  "item_categories": ["Characters (MKSC)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart Super Circuit",
+		  "item_categories": ["Cups (MKSC)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart Super Circuit",
+		  "items": ["Pipe Frame"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart Double Dash!!",
+		  "item_categories": ["Characters (MKDD)"],
+		  "random": 2
+	  },
+	  {
+		  "if_previous_item": "Mario Kart Double Dash!!",
+		  "item_categories": ["Cups (MKDD)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart Double Dash!!",
+		  "item_categories": ["Heavy Karts (MKDD)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart DS",
+		  "item_categories": ["Characters (MKDS)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart DS",
+		  "item_categories": ["Cups (MKDS)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart DS",
+		  "item_categories": ["Karts (MKDS)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart Wii",
+		  "item_categories": ["Large Characters (MKWii)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart Wii",
+		  "item_categories": ["Cups (MKWii)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart Wii",
+		  "item_categories": ["Large Karts (MKWii)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart 7",
+		  "item_categories": ["Characters (MK7)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart 7",
+		  "item_categories": ["Cups (MK7)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart 7",
+		  "item_categories": ["Karts (MK7)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart 7",
+		  "item_categories": ["Tires (MK7)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart 7",
+		  "item_categories": ["Gliders (MK7)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart 8",
+		  "item_categories": ["Characters (MK8)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart 8",
+		  "item_categories": ["Cups (MK8)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart 8",
+		  "item_categories": ["Karts (MK8)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart 8",
+		  "item_categories": ["Tires (MK8)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart 8",
+		  "item_categories": ["Gliders (MK8)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart World",
+		  "item_categories": ["Characters (MKWld)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart World",
+		  "item_categories": ["Cups (MKWld)"],
+		  "random": 1
+	  },
+	  {
+		  "if_previous_item": "Mario Kart World",
+		  "item_categories": ["Karts (MKWld)"],
+		  "random": 1
+	  }
+  ]
+}
