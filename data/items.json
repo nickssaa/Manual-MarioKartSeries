@@ -1,4274 +1,4346 @@
 {
-  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
-  "data": [
-    {
-      "count": 1,
-      "name": "Super Mario Kart",
-      "category": [
-        "Games"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mario Kart 64",
-      "category": [
-        "Games"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mario Kart Super Circuit",
-      "category": [
-        "Games"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mario Kart Double Dash!!",
-      "category": [
-        "Games"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mario Kart DS",
-      "category": [
-        "Games"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mario Kart Wii",
-      "category": [
-        "Games"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mario Kart 7",
-      "category": [
-        "Games"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mario Kart 8",
-      "category": [
-        "Games"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mario Kart World",
-      "category": [
-        "Games"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mushroom Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (SMK)",
-	"Cups (MK64)",
-	"Cups (MKSC)",
-	"Cups (MKDD)",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mushroom Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (SMK)",
-	"Cups (MK64)",
-	"Cups (MKSC)",
-	"Cups (MKDD)",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mushroom Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (SMK)",
-	"Cups (MK64)",
-	"Cups (MKSC)",
-	"Cups (MKDD)",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mushroom Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MK64)",
-	"Cups (MKDD)",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mushroom Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Flower Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (SMK)",
-	"Cups (MK64)",
-	"Cups (MKSC)",
-	"Cups (MKDD)",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Flower Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (SMK)",
-	"Cups (MK64)",
-	"Cups (MKSC)",
-	"Cups (MKDD)",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Flower Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (SMK)",
-	"Cups (MK64)",
-	"Cups (MKSC)",
-	"Cups (MKDD)",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Flower Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MK64)",
-	"Cups (MKDD)",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Flower Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Star Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (SMK)",
-	"Cups (MK64)",
-	"Cups (MKSC)",
-	"Cups (MKDD)",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Star Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (SMK)",
-	"Cups (MK64)",
-	"Cups (MKSC)",
-	"Cups (MKDD)",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Star Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (SMK)",
-	"Cups (MK64)",
-	"Cups (MKSC)",
-	"Cups (MKDD)",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Star Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MK64)",
-	"Cups (MKDD)",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Star Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Special Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (SMK)",
-	"Cups (MK64)",
-	"Cups (MKSC)",
-	"Cups (MKDD)",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Special Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (SMK)",
-	"Cups (MK64)",
-	"Cups (MKSC)",
-	"Cups (MKDD)",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Special Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (SMK)",
-	"Cups (MK64)",
-	"Cups (MKSC)",
-	"Cups (MKDD)",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Special Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MK64)",
-	"Cups (MKDD)",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Special Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Shell Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Shell Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Shell Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Shell Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Shell Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Banana Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Banana Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Banana Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Banana Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Banana Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Leaf Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Leaf Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Leaf Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Leaf Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Leaf Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Lightning Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (MKSC)",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Lightning Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (MKSC)",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Lightning Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (MKSC)",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Lightning Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MKDS)",
-	"Cups (MKWii)",
-	"Cups (MK7)",
-	"Cups (MK8)",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Lightning Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Egg Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Egg Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Egg Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Egg Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Egg Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Triforce Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Triforce Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Triforce Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Triforce Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Triforce Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Crossing Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Crossing Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Crossing Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Crossing Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Crossing Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Bell Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Bell Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Bell Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Bell Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Bell Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Golden Dash Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Golden Dash Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Golden Dash Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Golden Dash Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Golden Dash Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Lucky Cat Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Lucky Cat Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Lucky Cat Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Lucky Cat Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Lucky Cat Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Turnip Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Turnip Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Turnip Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Turnip Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Turnip Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Propeller Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Propeller Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Propeller Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Propeller Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Propeller Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Rock Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Rock Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Rock Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Rock Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Rock Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Moon Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Moon Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Moon Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Moon Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Moon Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Fruit Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Fruit Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Fruit Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Fruit Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Fruit Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Boomerang Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Boomerang Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Boomerang Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Boomerang Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Boomerang Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Feather Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Feather Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Feather Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Feather Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Feather Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cherry Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cherry Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cherry Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cherry Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cherry Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Acorn Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Acorn Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Acorn Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Acorn Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Acorn Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Spiny Cup (50cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Spiny Cup (100cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Spiny Cup (150cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Spiny Cup (MM/EM)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Spiny Cup (200cc)",
-      "category": [
-        "Cups",
-	"Cups (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "MKSC Extra Tracks",
-      "category": [
-	"Cups"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "All Cup Tour",
-      "category": [
-        "Cups",
-	"Cups (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Golden Rally",
-      "category": [
-        "Cups",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Ice Rally",
-      "category": [
-        "Cups",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Moon Rally",
-      "category": [
-        "Cups",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Spiny Rally",
-      "category": [
-        "Cups",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cherry Rally",
-      "category": [
-        "Cups",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Acorn Rally",
-      "category": [
-        "Cups",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cloud Rally",
-      "category": [
-        "Cups",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Heart Rally",
-      "category": [
-        "Cups",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Drill Rally",
-      "category": [
-        "Cups",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Boomerang Rally",
-      "category": [
-        "Cups",
-	"Cups (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mario",
-      "category": [
-        "Characters",
-        "Characters (SMK)",
-        "Characters (MK64)",
-        "Characters (MKSC)",
-	"Characters (MKDD)",
-	"Characters (MKDS)",
-	"Medium Characters (MKWii)",
-	"Characters (MK7)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Luigi",
-      "category": [
-        "Characters",
-        "Characters (SMK)",
-        "Characters (MK64)",
-        "Characters (MKSC)",
-	"Characters (MKDD)",
-	"Characters (MKDS)",
-	"Medium Characters (MKWii)",
-	"Characters (MK7)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Peach",
-      "category": [
-        "Characters",
-        "Characters (SMK)",
-        "Characters (MK64)",
-        "Characters (MKSC)",
-	"Characters (MKDD)",
-	"Characters (MKDS)",
-	"Medium Characters (MKWii)",
-	"Characters (MK7)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Yoshi",
-      "category": [
-        "Characters",
-        "Characters (SMK)",
-        "Characters (MK64)",
-        "Characters (MKSC)",
-	"Characters (MKDD)",
-	"Characters (MKDS)",
-	"Medium Characters (MKWii)",
-	"Characters (MK7)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Bowser",
-      "category": [
-        "Characters",
-        "Characters (SMK)",
-        "Characters (MK64)",
-        "Characters (MKSC)",
-	"Characters (MKDD)",
-	"Characters (MKDS)",
-	"Large Characters (MKWii)",
-	"Characters (MK7)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Donkey Kong Jr.",
-      "category": [
-        "Characters",
-        "Characters (SMK)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Toad",
-      "category": [
-        "Characters",
-        "Characters (SMK)",
-        "Characters (MK64)",
-        "Characters (MKSC)",
-	"Characters (MKDD)",
-	"Characters (MKDS)",
-	"Small Characters (MKWii)",
-	"Characters (MK7)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Koopa Troopa",
-      "category": [
-        "Characters",
-        "Characters (SMK)",
-	"Characters (MKDD)",
-	"Small Characters (MKWii)",
-	"Characters (MK7)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Donkey Kong",
-      "category": [
-        "Characters",
-        "Characters (MK64)",
-        "Characters (MKSC)",
-	"Characters (MKDD)",
-	"Characters (MKDS)",
-	"Large Characters (MKWii)",
-	"Characters (MK7)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Wario",
-      "category": [
-        "Characters",
-        "Characters (MK64)",
-        "Characters (MKSC)",
-	"Characters (MKDD)",
-	"Characters (MKDS)",
-	"Large Characters (MKWii)",
-	"Characters (MK7)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Daisy",
-      "category": [
-        "Characters",
-	"Characters (MKDD)",
-	"Characters (MKDS)",
-	"Medium Characters (MKWii)",
-	"Characters (MK7)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Birdo",
-      "category": [
-        "Characters",
-	"Characters (MKDD)",
-	"Medium Characters (MKWii)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Baby Mario",
-      "category": [
-        "Characters",
-	"Characters (MKDD)",
-	"Small Characters (MKWii)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Baby Luigi",
-      "category": [
-        "Characters",
-	"Characters (MKDD)",
-	"Small Characters (MKWii)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Toadette",
-      "category": [
-        "Characters",
-	"Characters (MKDD)",
-	"Small Characters (MKWii)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Paratroopa",
-      "category": [
-        "Characters",
-	"Characters (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Diddy Kong",
-      "category": [
-        "Characters",
-	"Characters (MKDD)",
-	"Medium Characters (MKWii)",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Bowser Jr.",
-      "category": [
-        "Characters",
-	"Characters (MKDD)",
-	"Medium Characters (MKWii)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Waluigi",
-      "category": [
-        "Characters",
-	"Characters (MKDD)",
-	"Characters (MKDS)",
-	"Large Characters (MKWii)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Petey Piranha",
-      "category": [
-        "Characters",
-	"Characters (MKDD)",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "King Boo",
-      "category": [
-        "Characters",
-	"Characters (MKDD)",
-	"Large Characters (MKWii)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Dry Bones",
-      "category": [
-        "Characters",
-	"Characters (MKDS)",
-	"Small Characters (MKWii)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "R.O.B.",
-      "category": [
-        "Characters",
-	"Characters (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Baby Peach",
-      "category": [
-        "Characters",
-	"Small Characters (MKWii)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Baby Daisy",
-      "category": [
-        "Characters",
-	"Small Characters (MKWii)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Rosalina",
-      "category": [
-        "Characters",
-	"Large Characters (MKWii)",
-	"Characters (MK7)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Funky Kong",
-      "category": [
-        "Characters",
-	"Large Characters (MKWii)",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Dry Bowser",
-      "category": [
-        "Characters",
-	"Large Characters (MKWii)",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mii",
-      "category": [
-        "Characters",
-	"Small Characters (MKWii)",
-	"Medium Characters (MKWii)",
-	"Large Characters (MKWii)",
-	"Characters (MK7)",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Metal Mario",
-      "category": [
-        "Characters",
-	"Characters (MK7)",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Shy Guy",
-      "category": [
-        "Characters",
-	"Characters (MK7)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Honey Queen",
-      "category": [
-        "Characters",
-	"Characters (MK7)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Wiggler",
-      "category": [
-        "Characters",
-	"Characters (MK7)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Lakitu",
-      "category": [
-        "Characters",
-	"Characters (MK7)",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Baby Rosalina",
-      "category": [
-        "Characters",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Lemmy",
-      "category": [
-        "Characters",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Larry",
-      "category": [
-        "Characters",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Wendy",
-      "category": [
-        "Characters",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Ludwig",
-      "category": [
-        "Characters",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Iggy",
-      "category": [
-        "Characters",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Roy",
-      "category": [
-        "Characters",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Morton",
-      "category": [
-        "Characters",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Pink Gold Peach",
-      "category": [
-        "Characters",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Racoon Mario",
-      "category": [
-        "Characters",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cat Peach",
-      "category": [
-        "Characters",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Link",
-      "category": [
-        "Characters",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Villager",
-      "category": [
-        "Characters",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Isabelle",
-      "category": [
-        "Characters",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Inkling",
-      "category": [
-        "Characters",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Pauline",
-      "category": [
-        "Characters",
-	"Characters (MK8)",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Kamek",
-      "category": [
-        "Characters",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Peachette",
-      "category": [
-        "Characters",
-	"Characters (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Nabbit",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Piranha Plant",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Hammer Bro",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Monty Mole",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Goomba",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Sidestepper",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cheep Cheep",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Pokey",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cow",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Stingby",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Snowman",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Penguin",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Para-Biddybud",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Spike",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cataquack",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Pianta",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Rocky Wrench",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Conkdor",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Peepa",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Swoop",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Fish Bone",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Coin Coffer",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Dolphin",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Chargin' Chuck",
-      "category": [
-        "Characters",
-	"Characters (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Time Trial (SMK)",
-      "category": [],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Time Trial (MK64)",
-      "category": [],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Time Trial (MKSC)",
-      "category": [],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Time Trial (MKDD)",
-      "category": [],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Time Trial (MKDS)",
-      "category": [],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Time Trial (MKWii)",
-      "category": [],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Time Trial (MK7)",
-      "category": [],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Time Trial (MK8) (150cc)",
-      "category": [],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Time Trial (MK8) (200cc)",
-      "category": [],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Time Trial (MKWld)",
-      "category": [],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard Kart",
-      "category": [
-	"Karts",
-	"Karts (MK7)",
-	"Karts (MK8)",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Red Fire",
-      "category": [
-	"Karts",
-	"Medium Karts (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Heart Coach",
-      "category": [
-	"Karts",
-	"Medium Karts (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Turbo Yoshi",
-      "category": [
-	"Karts",
-	"Medium Karts (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Goo-Goo Buggy",
-      "category": [
-	"Karts",
-	"Light Karts (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Koopa Dasher",
-      "category": [
-	"Karts",
-	"Light Karts (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "DJ Jumbo",
-      "category": [
-	"Karts",
-	"Heavy Karts (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Koopa King",
-      "category": [
-	"Karts",
-	"Heavy Karts (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Wario Car",
-      "category": [
-	"Karts",
-	"Heavy Karts (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Green Fire",
-      "category": [
-	"Karts",
-	"Medium Karts (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Bloom Coach",
-      "category": [
-	"Karts",
-	"Medium Karts (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Turbo Birdo",
-      "category": [
-	"Karts",
-	"Medium Karts (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Rattle Buggy",
-      "category": [
-	"Karts",
-	"Light Karts (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Toad Kart",
-      "category": [
-	"Karts",
-	"Light Karts (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Toadette Kart",
-      "category": [
-	"Karts",
-	"Light Karts (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Para-Wing",
-      "category": [
-	"Karts",
-	"Light Karts (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Barrel Train",
-      "category": [
-	"Karts",
-	"Light Karts (MKDD)",
-	"Karts (MK7)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Bullet Blaster",
-      "category": [
-	"Karts",
-	"Light Karts (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Waluigi Racer",
-      "category": [
-	"Karts",
-	"Medium Karts (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Piranha Pipes",
-      "category": [
-	"Karts",
-	"Heavy Karts (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Boo Pipes",
-      "category": [
-	"Karts",
-	"Heavy Karts (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Parade Kart",
-      "category": [
-	"Karts",
-	"Light Karts (MKDD)",
-	"Medium Karts (MKDD)",
-	"Heavy Karts (MKDD)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "B Dasher",
-      "category": [
-	"Karts",
-	"Karts (MKDS)",
-	"Karts (MK8)",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard MR",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Shooting Star",
-      "category": [
-	"Karts",
-	"Karts (MKDS)",
-	"Large Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Poltergust 4000",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard LG",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Streamliner",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Royale",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard PC",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Light Tripper",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Egg 1",
-      "category": [
-	"Karts",
-	"Karts (MKDS)",
-	"Karts (MK7)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard YS",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cucumber",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mushmellow",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard TD",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "4-Wheel Cradle",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Rambi Rider",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard DK",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Wildlife",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Brute",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard WR",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Dragonfly",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Tyrant",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard BW",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Hurricane",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Power Flower",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard DS",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Light Dancer",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Banisher",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard DB",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Dry Bomber",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Gold Mantis",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard WL",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Zipper",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "ROB-BLS",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard RB",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "ROB-LGS",
-      "category": [
-	"Karts",
-	"Karts (MKDS)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard Kart S",
-      "category": [
-	"Karts",
-	"Small Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard Bike S",
-      "category": [
-	"Karts",
-	"Small Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Booster Seat",
-      "category": [
-	"Karts",
-	"Small Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Bullet Bike",
-      "category": [
-	"Karts",
-	"Small Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mini Beast",
-      "category": [
-	"Karts",
-	"Small Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Bit Bike",
-      "category": [
-	"Karts",
-	"Small Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cheep Charger",
-      "category": [
-	"Karts",
-	"Small Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Quacker",
-      "category": [
-	"Karts",
-	"Small Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Tiny Titan",
-      "category": [
-	"Karts",
-	"Small Karts (MKWii)",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Magikruiser",
-      "category": [
-	"Karts",
-	"Small Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Blue Falcon",
-      "category": [
-	"Karts",
-	"Small Karts (MKWii)",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Jet Bubble",
-      "category": [
-	"Karts",
-	"Small Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard Kart M",
-      "category": [
-	"Karts",
-	"Medium Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard Bike M",
-      "category": [
-	"Karts",
-	"Medium Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Classic Dragster",
-      "category": [
-	"Karts",
-	"Medium Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mach Bike",
-      "category": [
-	"Karts",
-	"Medium Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Wild Wing",
-      "category": [
-	"Karts",
-	"Medium Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Sugarscoot",
-      "category": [
-	"Karts",
-	"Medium Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Super Blooper",
-      "category": [
-	"Karts",
-	"Medium Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Zip Zip",
-      "category": [
-	"Karts",
-	"Medium Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Daytripper",
-      "category": [
-	"Karts",
-	"Medium Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Sneakster",
-      "category": [
-	"Karts",
-	"Medium Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Sprinter",
-      "category": [
-	"Karts",
-	"Medium Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Dolphin Dasher",
-      "category": [
-	"Karts",
-	"Medium Karts (MKWii)",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard Kart L",
-      "category": [
-	"Karts",
-	"Large Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard Bike L",
-      "category": [
-	"Karts",
-	"Large Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Offroader",
-      "category": [
-	"Karts",
-	"Large Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Flame Runner",
-      "category": [
-	"Karts",
-	"Large Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Flame Flyer",
-      "category": [
-	"Karts",
-	"Large Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Wario Bike",
-      "category": [
-	"Karts",
-	"Large Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Piranha Prowler",
-      "category": [
-	"Karts",
-	"Large Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Jetsetter",
-      "category": [
-	"Karts",
-	"Large Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Spear",
-      "category": [
-	"Karts",
-	"Large Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Honeycoupe",
-      "category": [
-	"Karts",
-	"Large Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Phantom",
-      "category": [
-	"Karts",
-	"Large Karts (MKWii)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Birthday Girl",
-      "category": [
-	"Karts",
-	"Karts (MK7)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Bolt Buggy",
-      "category": [
-	"Karts",
-	"Karts (MK7)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Bumble V",
-      "category": [
-	"Karts",
-	"Karts (MK7)",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Bruiser",
-      "category": [
-	"Karts",
-	"Karts (MK7)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Soda Jet",
-      "category": [
-	"Karts",
-	"Karts (MK7)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Tiny Tug",
-      "category": [
-	"Karts",
-	"Karts (MK7)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cact-X",
-      "category": [
-	"Karts",
-	"Karts (MK7)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Koopa Clown",
-      "category": [
-	"Karts",
-	"Karts (MK7)",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cloud 9",
-      "category": [
-	"Karts",
-	"Karts (MK7)",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Zucchini",
-      "category": [
-	"Karts",
-	"Karts (MK7)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Blue Seven",
-      "category": [
-	"Karts",
-	"Karts (MK7)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Pipe Frame",
-      "category": [
-	"Karts",
-	"Karts (MK7)",
-	"Karts (MK8)",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Gold Standard",
-      "category": [
-	"Karts",
-	"Karts (MK7)",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard Tires",
-      "category": [
-	"Karts",
-	"Tires (MK7)",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Roller Tires",
-      "category": [
-	"Karts",
-	"Tires (MK7)",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Monster Tires",
-      "category": [
-	"Karts",
-	"Tires (MK7)",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Slick Tires",
-      "category": [
-	"Karts",
-	"Tires (MK7)",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Sponge Tires",
-      "category": [
-	"Karts",
-	"Tires (MK7)",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mushroom Tires",
-      "category": [
-	"Karts",
-	"Tires (MK7)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Wood Tires",
-      "category": [
-	"Karts",
-	"Tires (MK7)",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Red Monster Tires",
-      "category": [
-	"Karts",
-	"Tires (MK7)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Gold Tires",
-      "category": [
-	"Karts",
-	"Tires (MK7)",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Super Glider",
-      "category": [
-	"Karts",
-	"Gliders (MK7)",
-	"Gliders (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Peach Parasol",
-      "category": [
-	"Karts",
-	"Gliders (MK7)",
-	"Gliders (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Flower Glider",
-      "category": [
-	"Karts",
-	"Gliders (MK7)",
-	"Gliders (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Swooper",
-      "category": [
-	"Karts",
-	"Gliders (MK7)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Paraglider",
-      "category": [
-	"Karts",
-	"Gliders (MK7)",
-	"Gliders (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Gold Glider",
-      "category": [
-	"Karts",
-	"Gliders (MK7)",
-	"Gliders (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Beast Glider",
-      "category": [
-	"Karts",
-	"Gliders (MK7)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mach 8",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Steel Diver",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cat Cruiser",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Circuit Special",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Tri-Speeder",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Badwagon",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Prancer",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Biddybuggy",
-      "category": [
-	"Karts",
-	"Karts (MK8)",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Landship",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Sneeker",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Sports Coupe",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "GLA",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "W 25 Silver Arrow",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "300 SL Roadster",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Tanooki Kart",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Streetle",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "P-Wing",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard Bike",
-      "category": [
-	"Karts",
-	"Karts (MK8)",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "The Duke",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Flame Rider",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Varmint",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mr. Scooty",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Master Cycle Zero",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "City Tripper",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Comet",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Sport Bike",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Jet Bike",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Yoshi Bike",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Master Cycle",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Standard ATV",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Wild Wiggler",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Teddy Buggy",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Bone Rattler",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Splat Buggy",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Inkstriker",
-      "category": [
-	"Karts",
-	"Karts (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Slim Tires",
-      "category": [
-	"Karts",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Metal Tires",
-      "category": [
-	"Karts",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Button",
-      "category": [
-	"Karts",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Off-Road",
-      "category": [
-	"Karts",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cushion Tires",
-      "category": [
-	"Karts",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Blue Standard",
-      "category": [
-	"Karts",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Hot Monster",
-      "category": [
-	"Karts",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Azure Roller",
-      "category": [
-	"Karts",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Crimson Slim Tires",
-      "category": [
-	"Karts",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cyber Slick Tires",
-      "category": [
-	"Karts",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Retro Off-Road",
-      "category": [
-	"Karts",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "GLA Tires",
-      "category": [
-	"Karts",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Triforce Tires",
-      "category": [
-	"Karts",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Ancient Tires",
-      "category": [
-	"Karts",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Leaf Tires",
-      "category": [
-	"Karts",
-	"Tires (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cloud Glider",
-      "category": [
-	"Karts",
-	"Gliders (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Wario Wing",
-      "category": [
-	"Karts",
-	"Gliders (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Waddle Wing",
-      "category": [
-	"Karts",
-	"Gliders (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Parachute",
-      "category": [
-	"Karts",
-	"Gliders (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Parafoil",
-      "category": [
-	"Karts",
-	"Gliders (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Bowser Kite",
-      "category": [
-	"Karts",
-	"Gliders (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Plane Glider",
-      "category": [
-	"Karts",
-	"Gliders (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "MKTV Parafoil",
-      "category": [
-	"Karts",
-	"Gliders (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Hylian Kite",
-      "category": [
-	"Karts",
-	"Gliders (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Paper Glider",
-      "category": [
-	"Karts",
-	"Gliders (MK8)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Rally Kart",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Plushbuggy",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Baby Blooper",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Zoom Buggy",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Chargin' Truck",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Hot Rod",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Ribbit Revester",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Roadster Royale",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Bowser Bruiser",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Reel Racer",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Carpet Flyer",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Big Horn",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Lil' Dumpy",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Billdozer",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Rally Bike",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Cute Scoot",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mach Rocket",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Hyper Pipe",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Tune Thumper",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "W-Twin Chopper",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Fin Twin",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "R.O.B. H.O.G.",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Loco Moto",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Funky Dorrie",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Junkyard Hog",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Lobster Roller",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Blastronaut III",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Mecha Trike",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Rallygator",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Dread Sled",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 1,
-      "name": "Stellar Sled",
-      "category": [
-	"Karts",
-	"Karts (MKWld)"
-      ],
-      "progression": true
-    },
-    {
-      "count": 366,
-      "name": "Trophy",
-      "category": [
-        "Trophy"
-      ],
-      "progression": true
-    }
-  ]
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "count": 1,
+            "name": "Super Mario Kart",
+            "category": [
+                "SMK",
+                "Games"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mario Kart 64",
+            "category": [
+                "MK64",
+                "Games"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mario Kart Super Circuit",
+            "category": [
+                "MKSC",
+                "Games"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mario Kart Double Dash!!",
+            "category": [
+                "MKDD",
+                "Games"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mario Kart DS",
+            "category": [
+                "MKDS",
+                "Games"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mario Kart Wii",
+            "category": [
+                "MKWii",
+                "Games"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mario Kart 7",
+            "category": [
+                "MK7",
+                "Games"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mario Kart 8",
+            "category": [
+                "MK8",
+                "Games"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mario Kart World",
+            "category": [
+                "MKWld",
+                "Games"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mushroom Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (SMK)",
+                "Cups (MK64)",
+                "Cups (MKSC)",
+                "Cups (MKDD)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mushroom Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (SMK)",
+                "Cups (MK64)",
+                "Cups (MKSC)",
+                "Cups (MKDD)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mushroom Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (SMK)",
+                "Cups (MK64)",
+                "Cups (MKSC)",
+                "Cups (MKDD)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mushroom Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MK64)",
+                "Cups (MKDD)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mushroom Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Flower Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (SMK)",
+                "Cups (MK64)",
+                "Cups (MKSC)",
+                "Cups (MKDD)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Flower Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (SMK)",
+                "Cups (MK64)",
+                "Cups (MKSC)",
+                "Cups (MKDD)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Flower Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (SMK)",
+                "Cups (MK64)",
+                "Cups (MKSC)",
+                "Cups (MKDD)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Flower Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MK64)",
+                "Cups (MKDD)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Flower Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Star Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (SMK)",
+                "Cups (MK64)",
+                "Cups (MKSC)",
+                "Cups (MKDD)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Star Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (SMK)",
+                "Cups (MK64)",
+                "Cups (MKSC)",
+                "Cups (MKDD)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Star Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (SMK)",
+                "Cups (MK64)",
+                "Cups (MKSC)",
+                "Cups (MKDD)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Star Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MK64)",
+                "Cups (MKDD)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Star Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Special Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (SMK)",
+                "Cups (MK64)",
+                "Cups (MKSC)",
+                "Cups (MKDD)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Special Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (SMK)",
+                "Cups (MK64)",
+                "Cups (MKSC)",
+                "Cups (MKDD)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Special Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (SMK)",
+                "Cups (MK64)",
+                "Cups (MKSC)",
+                "Cups (MKDD)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Special Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MK64)",
+                "Cups (MKDD)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Special Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Shell Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Shell Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Shell Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Shell Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Shell Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Banana Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Banana Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Banana Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Banana Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Banana Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Leaf Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Leaf Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Leaf Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Leaf Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Leaf Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Lightning Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MKSC)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Lightning Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MKSC)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Lightning Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MKSC)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Lightning Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Lightning Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Egg Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Egg Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Egg Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Egg Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Egg Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Triforce Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Triforce Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Triforce Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Triforce Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Triforce Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Crossing Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Crossing Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Crossing Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Crossing Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Crossing Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Bell Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Bell Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Bell Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Bell Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Bell Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Golden Dash Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Golden Dash Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Golden Dash Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Golden Dash Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Golden Dash Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Lucky Cat Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Lucky Cat Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Lucky Cat Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Lucky Cat Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Lucky Cat Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Turnip Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Turnip Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Turnip Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Turnip Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Turnip Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Propeller Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Propeller Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Propeller Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Propeller Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Propeller Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Rock Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Rock Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Rock Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Rock Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Rock Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Moon Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Moon Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Moon Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Moon Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Moon Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Fruit Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Fruit Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Fruit Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Fruit Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Fruit Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Boomerang Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Boomerang Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Boomerang Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Boomerang Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Boomerang Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Feather Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Feather Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Feather Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Feather Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Feather Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cherry Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cherry Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cherry Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cherry Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cherry Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Acorn Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Acorn Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Acorn Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Acorn Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Acorn Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Spiny Cup (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Spiny Cup (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Spiny Cup (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Spiny Cup (MM/EM)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Spiny Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MKSC Extra Tracks",
+            "category": [
+                "Cups"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "All Cup Tour",
+            "category": [
+                "Cups",
+                "Cups (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Golden Rally",
+            "category": [
+                "Cups",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Ice Rally",
+            "category": [
+                "Cups",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Moon Rally",
+            "category": [
+                "Cups",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Spiny Rally",
+            "category": [
+                "Cups",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cherry Rally",
+            "category": [
+                "Cups",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Acorn Rally",
+            "category": [
+                "Cups",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cloud Rally",
+            "category": [
+                "Cups",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Heart Rally",
+            "category": [
+                "Cups",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Drill Rally",
+            "category": [
+                "Cups",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Boomerang Rally",
+            "category": [
+                "Cups",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mario",
+            "category": [
+                "Characters",
+                "Characters (SMK)",
+                "Characters (MK64)",
+                "Characters (MKSC)",
+                "Characters (MKDD)",
+                "Characters (MKDS)",
+                "Medium Characters (MKWii)",
+                "Characters (MK7)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Luigi",
+            "category": [
+                "Characters",
+                "Characters (SMK)",
+                "Characters (MK64)",
+                "Characters (MKSC)",
+                "Characters (MKDD)",
+                "Characters (MKDS)",
+                "Medium Characters (MKWii)",
+                "Characters (MK7)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Peach",
+            "category": [
+                "Characters",
+                "Characters (SMK)",
+                "Characters (MK64)",
+                "Characters (MKSC)",
+                "Characters (MKDD)",
+                "Characters (MKDS)",
+                "Medium Characters (MKWii)",
+                "Characters (MK7)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Yoshi",
+            "category": [
+                "Characters",
+                "Characters (SMK)",
+                "Characters (MK64)",
+                "Characters (MKSC)",
+                "Characters (MKDD)",
+                "Characters (MKDS)",
+                "Medium Characters (MKWii)",
+                "Characters (MK7)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Bowser",
+            "category": [
+                "Characters",
+                "Characters (SMK)",
+                "Characters (MK64)",
+                "Characters (MKSC)",
+                "Characters (MKDD)",
+                "Characters (MKDS)",
+                "Large Characters (MKWii)",
+                "Characters (MK7)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Donkey Kong Jr.",
+            "category": [
+                "Characters",
+                "Characters (SMK)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Toad",
+            "category": [
+                "Characters",
+                "Characters (SMK)",
+                "Characters (MK64)",
+                "Characters (MKSC)",
+                "Characters (MKDD)",
+                "Characters (MKDS)",
+                "Small Characters (MKWii)",
+                "Characters (MK7)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Koopa Troopa",
+            "category": [
+                "Characters",
+                "Characters (SMK)",
+                "Characters (MKDD)",
+                "Small Characters (MKWii)",
+                "Characters (MK7)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Donkey Kong",
+            "category": [
+                "Characters",
+                "Characters (MK64)",
+                "Characters (MKSC)",
+                "Characters (MKDD)",
+                "Characters (MKDS)",
+                "Large Characters (MKWii)",
+                "Characters (MK7)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Wario",
+            "category": [
+                "Characters",
+                "Characters (MK64)",
+                "Characters (MKSC)",
+                "Characters (MKDD)",
+                "Characters (MKDS)",
+                "Large Characters (MKWii)",
+                "Characters (MK7)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Daisy",
+            "category": [
+                "Characters",
+                "Characters (MKDD)",
+                "Characters (MKDS)",
+                "Medium Characters (MKWii)",
+                "Characters (MK7)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Birdo",
+            "category": [
+                "Characters",
+                "Characters (MKDD)",
+                "Medium Characters (MKWii)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Baby Mario",
+            "category": [
+                "Characters",
+                "Characters (MKDD)",
+                "Small Characters (MKWii)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Baby Luigi",
+            "category": [
+                "Characters",
+                "Characters (MKDD)",
+                "Small Characters (MKWii)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Toadette",
+            "category": [
+                "Characters",
+                "Characters (MKDD)",
+                "Small Characters (MKWii)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Paratroopa",
+            "category": [
+                "Characters",
+                "Characters (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Diddy Kong",
+            "category": [
+                "Characters",
+                "Characters (MKDD)",
+                "Medium Characters (MKWii)",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Bowser Jr.",
+            "category": [
+                "Characters",
+                "Characters (MKDD)",
+                "Medium Characters (MKWii)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Waluigi",
+            "category": [
+                "Characters",
+                "Characters (MKDD)",
+                "Characters (MKDS)",
+                "Large Characters (MKWii)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Petey Piranha",
+            "category": [
+                "Characters",
+                "Characters (MKDD)",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "King Boo",
+            "category": [
+                "Characters",
+                "Characters (MKDD)",
+                "Large Characters (MKWii)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Dry Bones",
+            "category": [
+                "Characters",
+                "Characters (MKDS)",
+                "Small Characters (MKWii)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "R.O.B.",
+            "category": [
+                "Characters",
+                "Characters (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Baby Peach",
+            "category": [
+                "Characters",
+                "Small Characters (MKWii)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Baby Daisy",
+            "category": [
+                "Characters",
+                "Small Characters (MKWii)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Rosalina",
+            "category": [
+                "Characters",
+                "Large Characters (MKWii)",
+                "Characters (MK7)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Funky Kong",
+            "category": [
+                "Characters",
+                "Large Characters (MKWii)",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Dry Bowser",
+            "category": [
+                "Characters",
+                "Large Characters (MKWii)",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mii",
+            "category": [
+                "Characters",
+                "Small Characters (MKWii)",
+                "Medium Characters (MKWii)",
+                "Large Characters (MKWii)",
+                "Characters (MK7)",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Metal Mario",
+            "category": [
+                "Characters",
+                "Characters (MK7)",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Shy Guy",
+            "category": [
+                "Characters",
+                "Characters (MK7)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Honey Queen",
+            "category": [
+                "Characters",
+                "Characters (MK7)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Wiggler",
+            "category": [
+                "Characters",
+                "Characters (MK7)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Lakitu",
+            "category": [
+                "Characters",
+                "Characters (MK7)",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Baby Rosalina",
+            "category": [
+                "Characters",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Lemmy",
+            "category": [
+                "Characters",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Larry",
+            "category": [
+                "Characters",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Wendy",
+            "category": [
+                "Characters",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Ludwig",
+            "category": [
+                "Characters",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Iggy",
+            "category": [
+                "Characters",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Roy",
+            "category": [
+                "Characters",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Morton",
+            "category": [
+                "Characters",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Pink Gold Peach",
+            "category": [
+                "Characters",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Racoon Mario",
+            "category": [
+                "Characters",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cat Peach",
+            "category": [
+                "Characters",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Link",
+            "category": [
+                "Characters",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Villager",
+            "category": [
+                "Characters",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Isabelle",
+            "category": [
+                "Characters",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Inkling",
+            "category": [
+                "Characters",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Pauline",
+            "category": [
+                "Characters",
+                "Characters (MK8)",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Kamek",
+            "category": [
+                "Characters",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Peachette",
+            "category": [
+                "Characters",
+                "Characters (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Nabbit",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Piranha Plant",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Hammer Bro",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Monty Mole",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Goomba",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Sidestepper",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cheep Cheep",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Pokey",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cow",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Stingby",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Snowman",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Penguin",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Para-Biddybud",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Spike",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cataquack",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Pianta",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Rocky Wrench",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Conkdor",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Peepa",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Swoop",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Fish Bone",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Coin Coffer",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Dolphin",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Chargin' Chuck",
+            "category": [
+                "Characters",
+                "Characters (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Time Trial (SMK)",
+            "category": ["SMK"],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Time Trial (MK64)",
+            "category": ["MK64"],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Time Trial (MKSC)",
+            "category": ["MKSC"],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Time Trial (MKDD)",
+            "category": ["MKDD"],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Time Trial (MKDS)",
+            "category": ["MKDS"],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Time Trial (MKWii)",
+            "category": ["MKWii"],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Time Trial (MK7)",
+            "category": ["MK7"],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Time Trial (MK8) (150cc)",
+            "category": ["MK8"],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Time Trial (MK8) (200cc)",
+            "category": ["MK8"],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Time Trial (MKWld)",
+            "category": ["MKWld"],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard Kart",
+            "category": [
+                "Karts",
+                "Karts (MK7)",
+                "Karts (MK8)",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Red Fire",
+            "category": [
+                "Karts",
+                "Medium Karts (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Heart Coach",
+            "category": [
+                "Karts",
+                "Medium Karts (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Turbo Yoshi",
+            "category": [
+                "Karts",
+                "Medium Karts (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Goo-Goo Buggy",
+            "category": [
+                "Karts",
+                "Light Karts (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Koopa Dasher",
+            "category": [
+                "Karts",
+                "Light Karts (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "DJ Jumbo",
+            "category": [
+                "Karts",
+                "Heavy Karts (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Koopa King",
+            "category": [
+                "Karts",
+                "Heavy Karts (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Wario Car",
+            "category": [
+                "Karts",
+                "Heavy Karts (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Green Fire",
+            "category": [
+                "Karts",
+                "Medium Karts (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Bloom Coach",
+            "category": [
+                "Karts",
+                "Medium Karts (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Turbo Birdo",
+            "category": [
+                "Karts",
+                "Medium Karts (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Rattle Buggy",
+            "category": [
+                "Karts",
+                "Light Karts (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Toad Kart",
+            "category": [
+                "Karts",
+                "Light Karts (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Toadette Kart",
+            "category": [
+                "Karts",
+                "Light Karts (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Para-Wing",
+            "category": [
+                "Karts",
+                "Light Karts (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Barrel Train",
+            "category": [
+                "Karts",
+                "Light Karts (MKDD)",
+                "Karts (MK7)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Bullet Blaster",
+            "category": [
+                "Karts",
+                "Light Karts (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Waluigi Racer",
+            "category": [
+                "Karts",
+                "Medium Karts (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Piranha Pipes",
+            "category": [
+                "Karts",
+                "Heavy Karts (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Boo Pipes",
+            "category": [
+                "Karts",
+                "Heavy Karts (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Parade Kart",
+            "category": [
+                "Karts",
+                "Light Karts (MKDD)",
+                "Medium Karts (MKDD)",
+                "Heavy Karts (MKDD)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "B Dasher",
+            "category": [
+                "Karts",
+                "Karts (MKDS)",
+                "Karts (MK8)",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard MR",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Shooting Star",
+            "category": [
+                "Karts",
+                "Karts (MKDS)",
+                "Large Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Poltergust 4000",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard LG",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Streamliner",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Royale",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard PC",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Light Tripper",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Egg 1",
+            "category": [
+                "Karts",
+                "Karts (MKDS)",
+                "Karts (MK7)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard YS",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cucumber",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mushmellow",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard TD",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "4-Wheel Cradle",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Rambi Rider",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard DK",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Wildlife",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Brute",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard WR",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Dragonfly",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Tyrant",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard BW",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Hurricane",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Power Flower",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard DS",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Light Dancer",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Banisher",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard DB",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Dry Bomber",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Gold Mantis",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard WL",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Zipper",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "ROB-BLS",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard RB",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "ROB-LGS",
+            "category": [
+                "Karts",
+                "Karts (MKDS)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard Kart S",
+            "category": [
+                "Karts",
+                "Small Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard Bike S",
+            "category": [
+                "Karts",
+                "Small Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Booster Seat",
+            "category": [
+                "Karts",
+                "Small Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Bullet Bike",
+            "category": [
+                "Karts",
+                "Small Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mini Beast",
+            "category": [
+                "Karts",
+                "Small Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Bit Bike",
+            "category": [
+                "Karts",
+                "Small Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cheep Charger",
+            "category": [
+                "Karts",
+                "Small Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Quacker",
+            "category": [
+                "Karts",
+                "Small Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Tiny Titan",
+            "category": [
+                "Karts",
+                "Small Karts (MKWii)",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Magikruiser",
+            "category": [
+                "Karts",
+                "Small Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Blue Falcon",
+            "category": [
+                "Karts",
+                "Small Karts (MKWii)",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Jet Bubble",
+            "category": [
+                "Karts",
+                "Small Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard Kart M",
+            "category": [
+                "Karts",
+                "Medium Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard Bike M",
+            "category": [
+                "Karts",
+                "Medium Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Classic Dragster",
+            "category": [
+                "Karts",
+                "Medium Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mach Bike",
+            "category": [
+                "Karts",
+                "Medium Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Wild Wing",
+            "category": [
+                "Karts",
+                "Medium Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Sugarscoot",
+            "category": [
+                "Karts",
+                "Medium Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Super Blooper",
+            "category": [
+                "Karts",
+                "Medium Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Zip Zip",
+            "category": [
+                "Karts",
+                "Medium Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Daytripper",
+            "category": [
+                "Karts",
+                "Medium Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Sneakster",
+            "category": [
+                "Karts",
+                "Medium Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Sprinter",
+            "category": [
+                "Karts",
+                "Medium Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Dolphin Dasher",
+            "category": [
+                "Karts",
+                "Medium Karts (MKWii)",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard Kart L",
+            "category": [
+                "Karts",
+                "Large Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard Bike L",
+            "category": [
+                "Karts",
+                "Large Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Offroader",
+            "category": [
+                "Karts",
+                "Large Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Flame Runner",
+            "category": [
+                "Karts",
+                "Large Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Flame Flyer",
+            "category": [
+                "Karts",
+                "Large Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Wario Bike",
+            "category": [
+                "Karts",
+                "Large Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Piranha Prowler",
+            "category": [
+                "Karts",
+                "Large Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Jetsetter",
+            "category": [
+                "Karts",
+                "Large Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Spear",
+            "category": [
+                "Karts",
+                "Large Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Honeycoupe",
+            "category": [
+                "Karts",
+                "Large Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Phantom",
+            "category": [
+                "Karts",
+                "Large Karts (MKWii)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Birthday Girl",
+            "category": [
+                "Karts",
+                "Karts (MK7)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Bolt Buggy",
+            "category": [
+                "Karts",
+                "Karts (MK7)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Bumble V",
+            "category": [
+                "Karts",
+                "Karts (MK7)",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Bruiser",
+            "category": [
+                "Karts",
+                "Karts (MK7)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Soda Jet",
+            "category": [
+                "Karts",
+                "Karts (MK7)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Tiny Tug",
+            "category": [
+                "Karts",
+                "Karts (MK7)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cact-X",
+            "category": [
+                "Karts",
+                "Karts (MK7)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Koopa Clown",
+            "category": [
+                "Karts",
+                "Karts (MK7)",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cloud 9",
+            "category": [
+                "Karts",
+                "Karts (MK7)",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Zucchini",
+            "category": [
+                "Karts",
+                "Karts (MK7)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Blue Seven",
+            "category": [
+                "Karts",
+                "Karts (MK7)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Pipe Frame",
+            "category": [
+                "SMK",
+                "MK64",
+                "MKSC",
+                "Karts",
+                "Karts (MK7)",
+                "Karts (MK8)",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Gold Standard",
+            "category": [
+                "Karts",
+                "Karts (MK7)",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard Tires",
+            "category": [
+                "Karts",
+                "Tires (MK7)",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Roller Tires",
+            "category": [
+                "Karts",
+                "Tires (MK7)",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Monster Tires",
+            "category": [
+                "Karts",
+                "Tires (MK7)",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Slick Tires",
+            "category": [
+                "Karts",
+                "Tires (MK7)",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Sponge Tires",
+            "category": [
+                "Karts",
+                "Tires (MK7)",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mushroom Tires",
+            "category": [
+                "Karts",
+                "Tires (MK7)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Wood Tires",
+            "category": [
+                "Karts",
+                "Tires (MK7)",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Red Monster Tires",
+            "category": [
+                "Karts",
+                "Tires (MK7)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Gold Tires",
+            "category": [
+                "Karts",
+                "Tires (MK7)",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Super Glider",
+            "category": [
+                "Karts",
+                "Gliders (MK7)",
+                "Gliders (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Peach Parasol",
+            "category": [
+                "Karts",
+                "Gliders (MK7)",
+                "Gliders (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Flower Glider",
+            "category": [
+                "Karts",
+                "Gliders (MK7)",
+                "Gliders (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Swooper",
+            "category": [
+                "Karts",
+                "Gliders (MK7)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Paraglider",
+            "category": [
+                "Karts",
+                "Gliders (MK7)",
+                "Gliders (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Gold Glider",
+            "category": [
+                "Karts",
+                "Gliders (MK7)",
+                "Gliders (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Beast Glider",
+            "category": [
+                "Karts",
+                "Gliders (MK7)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mach 8",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Steel Diver",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cat Cruiser",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Circuit Special",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Tri-Speeder",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Badwagon",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Prancer",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Biddybuggy",
+            "category": [
+                "Karts",
+                "Karts (MK8)",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Landship",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Sneeker",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Sports Coupe",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "GLA",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "W 25 Silver Arrow",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "300 SL Roadster",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Tanooki Kart",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Streetle",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "P-Wing",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard Bike",
+            "category": [
+                "Karts",
+                "Karts (MK8)",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "The Duke",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Flame Rider",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Varmint",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mr. Scooty",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Master Cycle Zero",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "City Tripper",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Comet",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Sport Bike",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Jet Bike",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Yoshi Bike",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Master Cycle",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Standard ATV",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Wild Wiggler",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Teddy Buggy",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Bone Rattler",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Splat Buggy",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Inkstriker",
+            "category": [
+                "Karts",
+                "Karts (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Slim Tires",
+            "category": [
+                "Karts",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Metal Tires",
+            "category": [
+                "Karts",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Button",
+            "category": [
+                "Karts",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Off-Road",
+            "category": [
+                "Karts",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cushion Tires",
+            "category": [
+                "Karts",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Blue Standard",
+            "category": [
+                "Karts",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Hot Monster",
+            "category": [
+                "Karts",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Azure Roller",
+            "category": [
+                "Karts",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Crimson Slim Tires",
+            "category": [
+                "Karts",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cyber Slick Tires",
+            "category": [
+                "Karts",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Retro Off-Road",
+            "category": [
+                "Karts",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "GLA Tires",
+            "category": [
+                "Karts",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Triforce Tires",
+            "category": [
+                "Karts",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Ancient Tires",
+            "category": [
+                "Karts",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Leaf Tires",
+            "category": [
+                "Karts",
+                "Tires (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cloud Glider",
+            "category": [
+                "Karts",
+                "Gliders (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Wario Wing",
+            "category": [
+                "Karts",
+                "Gliders (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Waddle Wing",
+            "category": [
+                "Karts",
+                "Gliders (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Parachute",
+            "category": [
+                "Karts",
+                "Gliders (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Parafoil",
+            "category": [
+                "Karts",
+                "Gliders (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Bowser Kite",
+            "category": [
+                "Karts",
+                "Gliders (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Plane Glider",
+            "category": [
+                "Karts",
+                "Gliders (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MKTV Parafoil",
+            "category": [
+                "Karts",
+                "Gliders (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Hylian Kite",
+            "category": [
+                "Karts",
+                "Gliders (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Paper Glider",
+            "category": [
+                "Karts",
+                "Gliders (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Rally Kart",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Plushbuggy",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Baby Blooper",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Zoom Buggy",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Chargin' Truck",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Hot Rod",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Ribbit Revester",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Roadster Royale",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Bowser Bruiser",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Reel Racer",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Carpet Flyer",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Big Horn",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Lil' Dumpy",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Billdozer",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Rally Bike",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cute Scoot",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mach Rocket",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Hyper Pipe",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Tune Thumper",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "W-Twin Chopper",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Fin Twin",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "R.O.B. H.O.G.",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Loco Moto",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Funky Dorrie",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Junkyard Hog",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Lobster Roller",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Blastronaut III",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mecha Trike",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Rallygator",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Dread Sled",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Stellar Sled",
+            "category": [
+                "Karts",
+                "Karts (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Trophy",
+            "category": [
+                "Trophy"
+            ],
+            "progression": true
+        }
+    ]
 }

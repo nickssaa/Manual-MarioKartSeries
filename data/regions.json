@@ -213,7 +213,8 @@
       "MKSC Special Cup (50cc)",
       "MKSC Special Cup (100cc)",
       "MKSC Special Cup (150cc)",
-      "MKSC Special Cup (TT)"
+      "MKSC Special Cup (TT)",
+      "MKSC Extra"
     ],
     "starting": true,
     "requires": "|Mario Kart Super Circuit| AND |@Characters (MKSC)| AND |Pipe Frame|"
@@ -321,8 +322,7 @@
       "MKSC Extra Special Cup (150cc)",
       "MKSC Extra Special Cup (TT)"
     ],
-    "starting": true,
-    "requires": "|MKSC Extra Tracks| AND |@Characters (MKSC)| AND |Pipe Frame|"
+    "requires": "|MKSC Extra Tracks|"
   },
   "MKSC Extra Mushroom Cup (50cc)": {
     "connects_to": [],

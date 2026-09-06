@@ -1,1 +1,32 @@
-{}
+{
+    "SMK": {
+        "hidden": true
+    },
+    "MK64": {
+        "hidden": true
+    },
+    "MKSC": {
+        "hidden": true
+    },
+    "MKDD": {
+        "hidden": true
+    },
+    "MKDS": {
+        "hidden": true
+    },
+    "MKWii": {
+        "hidden": true
+    },
+    "MK7": {
+        "hidden": true
+    },
+    "MK8": {
+        "hidden": true
+    },
+    "MKWld": {
+        "hidden": true
+    },
+    "BCP": {
+        "hidden": true
+    }
+}
