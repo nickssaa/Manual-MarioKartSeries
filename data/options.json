@@ -22,6 +22,13 @@
         }
     },
     "user": {
+        "enable_booster_course_pass": {
+            "type": "Toggle",
+            "description": [
+                "If Mario Kart 8 is enabled, choose if Booster Course Pass Tracks/Cups are included"
+            ],
+            "default": true
+        },
         "total_trophy_count": {
             "type": "Range",
             "description": [

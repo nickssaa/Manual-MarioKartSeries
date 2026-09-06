@@ -40,6 +40,7 @@ class EnabledGames(OptionSet):
     display_name = "Enabled Games"           # Name of the option in the spoiler
     valid_keys = item_name_groups["Games"]    # This is the bit that matters.  Our yaml option wants you to pick names of items in the Games category
     default = frozenset(valid_keys)              # This makes the default value list all of them.  It's easier for a player to delete ones they don't have than it is to guess what should be added.
+    group = "Game Selection"
 
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:

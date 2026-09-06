@@ -25,5 +25,8 @@
     },
     "MKWld": {
         "hidden": true
+    },
+    "BCP": {
+        "hidden": true
     }
 }

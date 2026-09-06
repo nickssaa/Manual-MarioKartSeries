@@ -11,8 +11,10 @@ def before_is_category_enabled(multiworld: MultiWorld, player: int, category_nam
 # Use this if you want to override the default behavior of is_option_enabled
 # Return True to enable the item, False to disable it, or None to use the default behavior
 def before_is_item_enabled(multiworld: MultiWorld, player: int, item:  dict[str, Any]) -> Optional[bool]:
+    from ..Helpers import get_option_value
+    if "BCP" in item["category"] and not get_option_value(multiworld, player, "enable_booster_course_pass"):
+        return False
     if any("MK" in i for i in item["category"]):
-        from ..Helpers import get_option_value
         enabled_games = list(get_option_value(multiworld, player, "enabled_games"))
         for i in range(len(enabled_games)):
             enabled_games[i] = MAP[enabled_games[i]]
@@ -22,8 +24,10 @@ def before_is_item_enabled(multiworld: MultiWorld, player: int, item:  dict[str,
 # Use this if you want to override the default behavior of is_option_enabled
 # Return True to enable the location, False to disable it, or None to use the default behavior
 def before_is_location_enabled(multiworld: MultiWorld, player: int, location:  dict[str, Any]) -> Optional[bool]:
+    from ..Helpers import get_option_value
+    if "BCP" in location["category"] and not get_option_value(multiworld, player, "enable_booster_course_pass"):
+        return False
     if "MK" in location["region"]:
-        from ..Helpers import get_option_value
         enabled_games = list(get_option_value(multiworld, player, "enabled_games"))
         for i in range(len(enabled_games)):
             enabled_games[i] = MAP[enabled_games[i]]
