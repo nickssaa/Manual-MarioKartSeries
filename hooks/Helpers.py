@@ -1,5 +1,6 @@
 from typing import Optional, Any
 from BaseClasses import MultiWorld
+MAP = {"Super Mario Kart":"SMK","Mario Kart 64":"MK64","Mario Kart Super Circuit":"MKSC","Mario Kart Double Dash!!":"MKDD","Mario Kart DS":"MKDS","Mario Kart Wii":"MKWii","Mario Kart 7":"MK7","Mario Kart 8":"MK8","Mario Kart World":"MKWld"}
 
 
 # Use this if you want to override the default behavior of is_option_enabled
@@ -10,11 +11,23 @@ def before_is_category_enabled(multiworld: MultiWorld, player: int, category_nam
 # Use this if you want to override the default behavior of is_option_enabled
 # Return True to enable the item, False to disable it, or None to use the default behavior
 def before_is_item_enabled(multiworld: MultiWorld, player: int, item:  dict[str, Any]) -> Optional[bool]:
+    if any("MK" in i for i in item["category"]):
+        from ..Helpers import get_option_value
+        enabled_games = list(get_option_value(multiworld, player, "enabled_games"))
+        for i in range(len(enabled_games)):
+            enabled_games[i] = MAP[enabled_games[i]]
+        return any(games in i for i in item["category"] for games in enabled_games)  # True if they're in the yaml, false if they're not
     return None
 
 # Use this if you want to override the default behavior of is_option_enabled
 # Return True to enable the location, False to disable it, or None to use the default behavior
 def before_is_location_enabled(multiworld: MultiWorld, player: int, location:  dict[str, Any]) -> Optional[bool]:
+    if "MK" in location["region"]:
+        from ..Helpers import get_option_value
+        enabled_games = list(get_option_value(multiworld, player, "enabled_games"))
+        for i in range(len(enabled_games)):
+            enabled_games[i] = MAP[enabled_games[i]]
+        return any(games in location["region"] for games in enabled_games)  # True if they're in the yaml, false if they're not
     return None
 
 # Use this if you want to override the default behavior of is_option_enabled
