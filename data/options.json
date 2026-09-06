@@ -22,6 +22,27 @@
         }
     },
     "user": {
+        "total_trophy_count": {
+            "type": "Range",
+            "description": [
+                "Total amount of trophies available in the pool",
+                "Recomended Trophy Count is total cups * total CCs",
+                "Value of 0 will auto-calculate this number"
+            ],
+            "range_start": 0,
+            "default": 0,
+            "range_end": 400,
+            "group": "Trophy Settings"
+        },
+        "trophy_percent": {
+            "type": "Range",
+            "description": ["Percentage of Trophies needed to reach goal"],
+            "range_start": 0,
+            "default": 70,
+            "range_end": 100,
+            "group": "Trophy Settings"
+        },
+
         "_Example_Choice":{
             "type": "Choice",
             "description": [

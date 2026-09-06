@@ -32,6 +32,9 @@ class TotalCharactersToWinWith(Range):
     range_end = 50
     default = 50
 
+from Options import OptionSet
+from ..Items import item_name_groups
+
 class EnabledGames(OptionSet):
     """Games that will be enabled in the world."""  # Description of the yaml option in the template
     display_name = "Enabled Games"           # Name of the option in the spoiler
@@ -63,15 +66,3 @@ def before_option_groups_created(groups: dict[str, list[Type[Option[Any]]]]) -> 
 def after_option_groups_created(groups: list[OptionGroup]) -> list[OptionGroup]:
     return groups
 
-from Options import OptionSet
-from ..Items import item_name_groups
-
-class EnabledGames(OptionSet):
-    """Games that will be enabled in the world."""  # Description of the yaml option in the template
-    display_name = "Enabled Games"           # Name of the option in the spoiler
-    valid_keys = item_name_groups["Games"]    # This is the bit that matters.  Our yaml option wants you to pick names of items in the Games category
-    default = frozenset(valid_keys)              # This makes the default value list all of them.  It's easier for a player to delete ones they don't have than it is to guess what should be added.
-
-def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
-    options["enabled_games"] = EnabledGames  # This registers the yaml option as `enabled_games`
-    return options

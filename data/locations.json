@@ -10531,7 +10531,7 @@
       "category": [
         "Victory"
       ],
-      "requires": "|Trophy:15|"
+      "requires": "{OptionCountPercent(@Trophy, trophy_percent)}"
     }
   ]
 }

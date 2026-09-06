@@ -74,6 +74,17 @@ def before_create_items_all(item_config: dict[str, int|dict], world: World, mult
 
 # The item pool before starting items are processed, in case you want to see the raw item pool at that stage
 def before_create_items_starting(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+    TROPHY_MAP = {"Super Mario Kart": 15, "Mario Kart 64": 16, "Mario Kart Super Circuit":30, "Mario Kart Double Dash!!":20, "Mario Kart DS":32, "Mario Kart Wii":32, "Mario Kart 7": 32, "Mario Kart 8": 120, "Mario Kart World": 32}
+    trophy_count = get_option_value(multiworld, player, "total_trophy_count")
+    print(get_option_value(multiworld, player, "enabled_games"))
+
+    if trophy_count == 0:
+        for i in get_option_value(multiworld, player, "enabled_games"):
+            trophy_count += TROPHY_MAP[i]
+    print(trophy_count)
+    for i in range(trophy_count-1):
+        trophy = world.create_item("Trophy")
+        item_pool.append(trophy)
     return item_pool
 
 # The item pool after starting items are processed but before filler is added, in case you want to see the raw item pool at that stage
