@@ -2070,6 +2070,7 @@
                 "Characters (SMK)",
                 "Characters (MK64)",
                 "Characters (MKSC)",
+                "Medium Characters (MKDD)",
                 "Characters (MKDD)",
                 "Characters (MKDS)",
                 "Medium Characters (MKWii)",
@@ -2087,6 +2088,7 @@
                 "Characters (SMK)",
                 "Characters (MK64)",
                 "Characters (MKSC)",
+                "Medium Characters (MKDD)",
                 "Characters (MKDD)",
                 "Characters (MKDS)",
                 "Medium Characters (MKWii)",
@@ -2104,6 +2106,7 @@
                 "Characters (SMK)",
                 "Characters (MK64)",
                 "Characters (MKSC)",
+                "Medium Characters (MKDD)",
                 "Characters (MKDD)",
                 "Characters (MKDS)",
                 "Medium Characters (MKWii)",
@@ -2121,6 +2124,7 @@
                 "Characters (SMK)",
                 "Characters (MK64)",
                 "Characters (MKSC)",
+                "Medium Characters (MKDD)",
                 "Characters (MKDD)",
                 "Characters (MKDS)",
                 "Medium Characters (MKWii)",
@@ -2138,6 +2142,7 @@
                 "Characters (SMK)",
                 "Characters (MK64)",
                 "Characters (MKSC)",
+                "Heavy Characters (MKDD)",
                 "Characters (MKDD)",
                 "Characters (MKDS)",
                 "Large Characters (MKWii)",
@@ -2164,6 +2169,7 @@
                 "Characters (SMK)",
                 "Characters (MK64)",
                 "Characters (MKSC)",
+                "Light Characters (MKDD)",
                 "Characters (MKDD)",
                 "Characters (MKDS)",
                 "Small Characters (MKWii)",
@@ -2179,6 +2185,7 @@
             "category": [
                 "Characters",
                 "Characters (SMK)",
+                "Light Characters (MKDD)",
                 "Characters (MKDD)",
                 "Small Characters (MKWii)",
                 "Characters (MK7)",
@@ -2194,6 +2201,7 @@
                 "Characters",
                 "Characters (MK64)",
                 "Characters (MKSC)",
+                "Heavy Characters (MKDD)",
                 "Characters (MKDD)",
                 "Characters (MKDS)",
                 "Large Characters (MKWii)",
@@ -2210,6 +2218,7 @@
                 "Characters",
                 "Characters (MK64)",
                 "Characters (MKSC)",
+                "Heavy Characters (MKDD)",
                 "Characters (MKDD)",
                 "Characters (MKDS)",
                 "Large Characters (MKWii)",
@@ -2224,6 +2233,7 @@
             "name": "Daisy",
             "category": [
                 "Characters",
+                "Medium Characters (MKDD)",
                 "Characters (MKDD)",
                 "Characters (MKDS)",
                 "Medium Characters (MKWii)",
@@ -2238,6 +2248,7 @@
             "name": "Birdo",
             "category": [
                 "Characters",
+                "Medium Characters (MKDD)",
                 "Characters (MKDD)",
                 "Medium Characters (MKWii)",
                 "Characters (MK8)",
@@ -2250,6 +2261,7 @@
             "name": "Baby Mario",
             "category": [
                 "Characters",
+                "Light Characters (MKDD)",
                 "Characters (MKDD)",
                 "Small Characters (MKWii)",
                 "Characters (MK8)",
@@ -2262,6 +2274,7 @@
             "name": "Baby Luigi",
             "category": [
                 "Characters",
+                "Light Characters (MKDD)",
                 "Characters (MKDD)",
                 "Small Characters (MKWii)",
                 "Characters (MK8)",
@@ -2274,6 +2287,7 @@
             "name": "Toadette",
             "category": [
                 "Characters",
+                "Light Characters (MKDD)",
                 "Characters (MKDD)",
                 "Small Characters (MKWii)",
                 "Characters (MK8)",
@@ -2286,6 +2300,7 @@
             "name": "Paratroopa",
             "category": [
                 "Characters",
+                "Light Characters (MKDD)",
                 "Characters (MKDD)"
             ],
             "progression": true
@@ -2295,6 +2310,7 @@
             "name": "Diddy Kong",
             "category": [
                 "Characters",
+                "Light Characters (MKDD)",
                 "Characters (MKDD)",
                 "Medium Characters (MKWii)",
                 "Characters (MK8)"
@@ -2306,6 +2322,7 @@
             "name": "Bowser Jr.",
             "category": [
                 "Characters",
+                "Light Characters (MKDD)",
                 "Characters (MKDD)",
                 "Medium Characters (MKWii)",
                 "Characters (MK8)",
@@ -2318,6 +2335,7 @@
             "name": "Waluigi",
             "category": [
                 "Characters",
+                "Medium Characters (MKDD)",
                 "Characters (MKDD)",
                 "Characters (MKDS)",
                 "Large Characters (MKWii)",
@@ -2331,6 +2349,7 @@
             "name": "Petey Piranha",
             "category": [
                 "Characters",
+                "Heavy Characters (MKDD)",
                 "Characters (MKDD)",
                 "Characters (MK8)"
             ],
@@ -2341,6 +2360,7 @@
             "name": "King Boo",
             "category": [
                 "Characters",
+                "Heavy Characters (MKDD)",
                 "Characters (MKDD)",
                 "Large Characters (MKWii)",
                 "Characters (MK8)",
