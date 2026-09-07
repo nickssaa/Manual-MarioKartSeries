@@ -159,6 +159,40 @@
         },
         {
             "count": 1,
+            "name": "Mushroom Cup (TT100)",
+            "category": [
+                "Cups",
+                "Cups (SMK)",
+                "Cups (MK64)",
+                "Cups (MKSC)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mushroom Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MKDD)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Mushroom Cup (TT200)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
             "name": "Flower Cup (50cc)",
             "category": [
                 "Cups",
@@ -226,6 +260,40 @@
         {
             "count": 1,
             "name": "Flower Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Flower Cup (TT100)",
+            "category": [
+                "Cups",
+                "Cups (SMK)",
+                "Cups (MK64)",
+                "Cups (MKSC)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Flower Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MKDD)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Flower Cup (TT200)",
             "category": [
                 "Cups",
                 "Cups (MK8)"
@@ -309,6 +377,40 @@
         },
         {
             "count": 1,
+            "name": "Star Cup (TT100)",
+            "category": [
+                "Cups",
+                "Cups (SMK)",
+                "Cups (MK64)",
+                "Cups (MKSC)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Star Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MKDD)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Star Cup (TT200)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
             "name": "Special Cup (50cc)",
             "category": [
                 "Cups",
@@ -384,6 +486,40 @@
         },
         {
             "count": 1,
+            "name": "Special Cup (TT100)",
+            "category": [
+                "Cups",
+                "Cups (SMK)",
+                "Cups (MK64)",
+                "Cups (MKSC)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Special Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MKDD)",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Special Cup (TT200)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
             "name": "Shell Cup (50cc)",
             "category": [
                 "Cups",
@@ -437,6 +573,28 @@
         {
             "count": 1,
             "name": "Shell Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Shell Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Shell Cup (TT200)",
             "category": [
                 "Cups",
                 "Cups (MK8)"
@@ -506,6 +664,28 @@
         },
         {
             "count": 1,
+            "name": "Banana Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Banana Cup (TT200)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
             "name": "Leaf Cup (50cc)",
             "category": [
                 "Cups",
@@ -559,6 +739,28 @@
         {
             "count": 1,
             "name": "Leaf Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Leaf Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Leaf Cup (TT200)",
             "category": [
                 "Cups",
                 "Cups (MK8)"
@@ -631,6 +833,37 @@
         },
         {
             "count": 1,
+            "name": "Lightning Cup (TT100)",
+            "category": [
+                "Cups",
+                "Cups (MKSC)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Lightning Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MKDS)",
+                "Cups (MKWii)",
+                "Cups (MK7)",
+                "Cups (MK8)",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Lightning Cup (TT200)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
             "name": "Egg Cup (50cc)",
             "category": [
                 "Cups",
@@ -668,6 +901,24 @@
         {
             "count": 1,
             "name": "Egg Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Egg Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Egg Cup (TT200)",
             "category": [
                 "Cups",
                 "Cups (MK8)"
@@ -721,6 +972,24 @@
         },
         {
             "count": 1,
+            "name": "Trifoce Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Triforce Cup (TT200)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
             "name": "Crossing Cup (50cc)",
             "category": [
                 "Cups",
@@ -758,6 +1027,24 @@
         {
             "count": 1,
             "name": "Crossing Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Crossing Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Crossing Cup (TT200)",
             "category": [
                 "Cups",
                 "Cups (MK8)"
@@ -811,6 +1098,24 @@
         },
         {
             "count": 1,
+            "name": "Bell Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Bell Cup (TT200)",
+            "category": [
+                "Cups",
+                "Cups (MK8)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
             "name": "Golden Dash Cup (50cc)",
             "category": [
                 "Cups",
@@ -852,6 +1157,26 @@
         {
             "count": 1,
             "name": "Golden Dash Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Golden Dash Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Golden Dash Cup (TT200)",
             "category": [
                 "Cups",
                 "Cups (MK8)",
@@ -911,6 +1236,26 @@
         },
         {
             "count": 1,
+            "name": "Lucky Cat Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Lucky Cat Cup (TT200)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
             "name": "Turnip Cup (50cc)",
             "category": [
                 "Cups",
@@ -952,6 +1297,26 @@
         {
             "count": 1,
             "name": "Turnip Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Turnip Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Turnip Cup (TT200)",
             "category": [
                 "Cups",
                 "Cups (MK8)",
@@ -1011,6 +1376,26 @@
         },
         {
             "count": 1,
+            "name": "Propeller Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Propeller Cup (TT200)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
             "name": "Rock Cup (50cc)",
             "category": [
                 "Cups",
@@ -1052,6 +1437,26 @@
         {
             "count": 1,
             "name": "Rock Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Rock Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Rock Cup (TT200)",
             "category": [
                 "Cups",
                 "Cups (MK8)",
@@ -1111,6 +1516,26 @@
         },
         {
             "count": 1,
+            "name": "Moon Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Moon Cup (TT200)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
             "name": "Fruit Cup (50cc)",
             "category": [
                 "Cups",
@@ -1152,6 +1577,26 @@
         {
             "count": 1,
             "name": "Fruit Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Fruit Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Fruit Cup (TT200)",
             "category": [
                 "Cups",
                 "Cups (MK8)",
@@ -1211,6 +1656,26 @@
         },
         {
             "count": 1,
+            "name": "Boomerang Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Boomerang Cup (TT200)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
             "name": "Feather Cup (50cc)",
             "category": [
                 "Cups",
@@ -1252,6 +1717,26 @@
         {
             "count": 1,
             "name": "Feather Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Feather Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Feather Cup (TT200)",
             "category": [
                 "Cups",
                 "Cups (MK8)",
@@ -1311,6 +1796,26 @@
         },
         {
             "count": 1,
+            "name": "Cherry Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Cherry Cup (TT200)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
             "name": "Acorn Cup (50cc)",
             "category": [
                 "Cups",
@@ -1361,6 +1866,26 @@
         },
         {
             "count": 1,
+            "name": "Acorn Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Acorn Cup (TT200)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
             "name": "Spiny Cup (50cc)",
             "category": [
                 "Cups",
@@ -1402,6 +1927,26 @@
         {
             "count": 1,
             "name": "Spiny Cup (200cc)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Spiny Cup (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MK8)",
+                "BCP"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Spiny Cup (TT200)",
             "category": [
                 "Cups",
                 "Cups (MK8)",
@@ -2320,60 +2865,6 @@
                 "Characters",
                 "Characters (MKWld)"
             ],
-            "progression": true
-        },
-        {
-            "count": 1,
-            "name": "Time Trial (SMK)",
-            "category": ["SMK"],
-            "progression": true
-        },
-        {
-            "count": 1,
-            "name": "Time Trial (MK64)",
-            "category": ["MK64"],
-            "progression": true
-        },
-        {
-            "count": 1,
-            "name": "Time Trial (MKSC)",
-            "category": ["MKSC"],
-            "progression": true
-        },
-        {
-            "count": 1,
-            "name": "Time Trial (MKDD)",
-            "category": ["MKDD"],
-            "progression": true
-        },
-        {
-            "count": 1,
-            "name": "Time Trial (MKDS)",
-            "category": ["MKDS"],
-            "progression": true
-        },
-        {
-            "count": 1,
-            "name": "Time Trial (MKWii)",
-            "category": ["MKWii"],
-            "progression": true
-        },
-        {
-            "count": 1,
-            "name": "Time Trial (MK7)",
-            "category": ["MK7"],
-            "progression": true
-        },
-        {
-            "count": 1,
-            "name": "Time Trial (MK8) (150cc)",
-            "category": ["MK8"],
-            "progression": true
-        },
-        {
-            "count": 1,
-            "name": "Time Trial (MK8) (200cc)",
-            "category": ["MK8"],
             "progression": true
         },
         {
