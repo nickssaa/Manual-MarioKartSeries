@@ -1958,7 +1958,8 @@
             "count": 1,
             "name": "MKSC Extra Tracks",
             "category": [
-                "Cups"
+                "Cups",
+                "Cups (MKSC)"
             ],
             "progression": true
         },
