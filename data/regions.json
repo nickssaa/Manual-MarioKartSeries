@@ -36,7 +36,7 @@
   },
   "SMK Mushroom Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (SMK)|"
+    "requires": "|Mushroom Cup (TT100)|"
   },
   "SMK Flower Cup (50cc)": {
     "connects_to": [],
@@ -52,7 +52,7 @@
   },
   "SMK Flower Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (SMK)|"
+    "requires": "|Flower Cup (TT100)|"
   },
   "SMK Star Cup (50cc)": {
     "connects_to": [],
@@ -68,7 +68,7 @@
   },
   "SMK Star Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (SMK)|"
+    "requires": "|Star Cup (TT100)|"
   },
   "SMK Special Cup (50cc)": {
     "connects_to": [],
@@ -84,7 +84,7 @@
   },
   "SMK Special Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (SMK)|"
+    "requires": "|Special Cup (TT100)|"
   },
   "MK64": {
     "connects_to": [
@@ -130,7 +130,7 @@
   },
   "MK64 Mushroom Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK64)|"
+    "requires": "|Mushroom Cup (TT100)|"
   },
   "MK64 Flower Cup (50cc)": {
     "connects_to": [],
@@ -150,7 +150,7 @@
   },
   "MK64 Flower Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK64)|"
+    "requires": "|Flower Cup (TT100)|"
   },
   "MK64 Star Cup (50cc)": {
     "connects_to": [],
@@ -170,7 +170,7 @@
   },
   "MK64 Star Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK64)|"
+    "requires": "|Star Cup (TT100)|"
   },
   "MK64 Special Cup (50cc)": {
     "connects_to": [],
@@ -190,7 +190,7 @@
   },
   "MK64 Special Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK64)|"
+    "requires": "|Special Cup (TT100)|"
   },
   "MKSC": {
     "connects_to": [
@@ -233,7 +233,7 @@
   },
   "MKSC Mushroom Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKSC)|"
+    "requires": "|Mushroom Cup (TT100)|"
   },
   "MKSC Flower Cup (50cc)": {
     "connects_to": [],
@@ -249,7 +249,7 @@
   },
   "MKSC Flower Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKSC)|"
+    "requires": "|Flower Cup (TT100)|"
   },
   "MKSC Lightning Cup (50cc)": {
     "connects_to": [],
@@ -265,7 +265,7 @@
   },
   "MKSC Lightning Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKSC)|"
+    "requires": "|Lightning Cup (TT100)|"
   },
   "MKSC Star Cup (50cc)": {
     "connects_to": [],
@@ -281,7 +281,7 @@
   },
   "MKSC Star Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKSC)|"
+    "requires": "|Star Cup (TT100)|"
   },
   "MKSC Special Cup (50cc)": {
     "connects_to": [],
@@ -297,7 +297,7 @@
   },
   "MKSC Special Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKSC)|"
+    "requires": "|Special Cup (TT100)|"
   },
   "MKSC Extra": {
     "connects_to": [
@@ -338,7 +338,7 @@
   },
   "MKSC Extra Mushroom Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKSC)|"
+    "requires": "|Mushroom Cup (TT100)|"
   },
   "MKSC Extra Flower Cup (50cc)": {
     "connects_to": [],
@@ -354,7 +354,7 @@
   },
   "MKSC Extra Flower Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKSC)|"
+    "requires": "|Flower Cup (TT100)|"
   },
   "MKSC Extra Lightning Cup (50cc)": {
     "connects_to": [],
@@ -370,7 +370,7 @@
   },
   "MKSC Extra Lightning Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKSC)|"
+    "requires": "|Lightning Cup (TT100)|"
   },
   "MKSC Extra Star Cup (50cc)": {
     "connects_to": [],
@@ -386,7 +386,7 @@
   },
   "MKSC Extra Star Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKSC)|"
+    "requires": "|Star Cup (TT100)|"
   },
   "MKSC Extra Special Cup (50cc)": {
     "connects_to": [],
@@ -402,7 +402,7 @@
   },
   "MKSC Extra Special Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKSC)|"
+    "requires": "|Special Cup (TT100)|"
   },
   "MKDD": {
     "connects_to": [
@@ -449,7 +449,7 @@
   },
   "MKDD Mushroom Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKDD)|"
+    "requires": "|Mushroom Cup (TT150)|"
   },
   "MKDD Flower Cup (50cc)": {
     "connects_to": [],
@@ -469,7 +469,7 @@
   },
   "MKDD Flower Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKDD)|"
+    "requires": "|Flower Cup (TT150)|"
   },
   "MKDD Star Cup (50cc)": {
     "connects_to": [],
@@ -489,7 +489,7 @@
   },
   "MKDD Star Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKDD)|"
+    "requires": "|Star Cup (TT150)|"
   },
   "MKDD Special Cup (50cc)": {
     "connects_to": [],
@@ -509,7 +509,7 @@
   },
   "MKDD Special Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKDD)|"
+    "requires": "|Special Cup (TT150)|"
   },
   "MKDD All Cup Tour": {
     "connects_to": [],
@@ -579,7 +579,7 @@
   },
   "MKDS Mushroom Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKDS)|"
+    "requires": "|Mushroom Cup (TT150)|"
   },
   "MKDS Flower Cup (50cc)": {
     "connects_to": [],
@@ -599,7 +599,7 @@
   },
   "MKDS Flower Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKDS)|"
+    "requires": "|Flower Cup (TT150)|"
   },
   "MKDS Star Cup (50cc)": {
     "connects_to": [],
@@ -619,7 +619,7 @@
   },
   "MKDS Star Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKDS)|"
+    "requires": "|Star Cup (TT150)|"
   },
   "MKDS Special Cup (50cc)": {
     "connects_to": [],
@@ -639,7 +639,7 @@
   },
   "MKDS Special Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKDS)|"
+    "requires": "|Special Cup (TT150)|"
   },
   "MKDS Shell Cup (50cc)": {
     "connects_to": [],
@@ -659,7 +659,7 @@
   },
   "MKDS Shell Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKDS)|"
+    "requires": "|Shell Cup (TT150)|"
   },
   "MKDS Banana Cup (50cc)": {
     "connects_to": [],
@@ -679,7 +679,7 @@
   },
   "MKDS Banana Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKDS)|"
+    "requires": "|Banana Cup (TT150)|"
   },
   "MKDS Leaf Cup (50cc)": {
     "connects_to": [],
@@ -699,7 +699,7 @@
   },
   "MKDS Leaf Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKDS)|"
+    "requires": "|Leaf Cup (TT150)|"
   },
   "MKDS Lightning Cup (50cc)": {
     "connects_to": [],
@@ -719,7 +719,7 @@
   },
   "MKDS Lightning Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKDS)|"
+    "requires": "|Lightning Cup (TT150)|"
   },
   "MKWii": {
     "connects_to": [
@@ -785,7 +785,7 @@
   },
   "MKWii Mushroom Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKWii)|"
+    "requires": "|Mushroom Cup (TT150)|"
   },
   "MKWii Flower Cup (50cc)": {
     "connects_to": [],
@@ -805,7 +805,7 @@
   },
   "MKWii Flower Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKWii)|"
+    "requires": "|Flower Cup (TT150)|"
   },
   "MKWii Star Cup (50cc)": {
     "connects_to": [],
@@ -825,7 +825,7 @@
   },
   "MKWii Star Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKWii)|"
+    "requires": "|Star Cup (TT150)|"
   },
   "MKWii Special Cup (50cc)": {
     "connects_to": [],
@@ -845,7 +845,7 @@
   },
   "MKWii Special Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKWii)|"
+    "requires": "|Special Cup (TT150)|"
   },
   "MKWii Shell Cup (50cc)": {
     "connects_to": [],
@@ -865,7 +865,7 @@
   },
   "MKWii Shell Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKWii)|"
+    "requires": "|Shell Cup (TT150)|"
   },
   "MKWii Banana Cup (50cc)": {
     "connects_to": [],
@@ -885,7 +885,7 @@
   },
   "MKWii Banana Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKWii)|"
+    "requires": "|Banana Cup (TT150)|"
   },
   "MKWii Leaf Cup (50cc)": {
     "connects_to": [],
@@ -905,7 +905,7 @@
   },
   "MKWii Leaf Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKWii)|"
+    "requires": "|Leaf Cup (TT150)|"
   },
   "MKWii Lightning Cup (50cc)": {
     "connects_to": [],
@@ -925,7 +925,7 @@
   },
   "MKWii Lightning Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKWii)|"
+    "requires": "|Lightning Cup (TT150)|"
   },
   "MK7": {
     "connects_to": [
@@ -991,7 +991,7 @@
   },
   "MK7 Mushroom Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK7)|"
+    "requires": "|Mushroom Cup (TT150)|"
   },
   "MK7 Flower Cup (50cc)": {
     "connects_to": [],
@@ -1011,7 +1011,7 @@
   },
   "MK7 Flower Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK7)|"
+    "requires": "|Flower Cup (TT150)|"
   },
   "MK7 Star Cup (50cc)": {
     "connects_to": [],
@@ -1031,7 +1031,7 @@
   },
   "MK7 Star Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK7)|"
+    "requires": "|Star Cup (TT150)|"
   },
   "MK7 Special Cup (50cc)": {
     "connects_to": [],
@@ -1051,7 +1051,7 @@
   },
   "MK7 Special Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK7)|"
+    "requires": "|Special Cup (TT150)|"
   },
   "MK7 Shell Cup (50cc)": {
     "connects_to": [],
@@ -1071,7 +1071,7 @@
   },
   "MK7 Shell Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK7)|"
+    "requires": "|Shell Cup (TT150)|"
   },
   "MK7 Banana Cup (50cc)": {
     "connects_to": [],
@@ -1091,7 +1091,7 @@
   },
   "MK7 Banana Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK7)|"
+    "requires": "|Banana Cup (TT150)|"
   },
   "MK7 Leaf Cup (50cc)": {
     "connects_to": [],
@@ -1111,7 +1111,7 @@
   },
   "MK7 Leaf Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK7)|"
+    "requires": "|Leaf Cup (TT150)|"
   },
   "MK7 Lightning Cup (50cc)": {
     "connects_to": [],
@@ -1131,7 +1131,7 @@
   },
   "MK7 Lightning Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK7)|"
+    "requires": "|Lightning Cup (TT150)|"
   },
   "MK8": {
     "connects_to": [
@@ -1329,11 +1329,11 @@
   },
   "MK8 Mushroom Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Mushroom Cup (TT150)|"
   },
   "MK8 Mushroom Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Mushroom Cup (TT200)|"
   },
   "MK8 Flower Cup (50cc)": {
     "connects_to": [],
@@ -1357,11 +1357,11 @@
   },
   "MK8 Flower Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Flower Cup (TT150)|"
   },
   "MK8 Flower Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Flower Cup (TT200)|"
   },
   "MK8 Star Cup (50cc)": {
     "connects_to": [],
@@ -1385,11 +1385,11 @@
   },
   "MK8 Star Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Star Cup (TT150)|"
   },
   "MK8 Star Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Star Cup (TT200)|"
   },
   "MK8 Special Cup (50cc)": {
     "connects_to": [],
@@ -1413,11 +1413,11 @@
   },
   "MK8 Special Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Special Cup (TT150)|"
   },
   "MK8 Special Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Special Cup (TT200)|"
   },
   "MK8 Shell Cup (50cc)": {
     "connects_to": [],
@@ -1441,11 +1441,11 @@
   },
   "MK8 Shell Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Shell Cup (TT150)|"
   },
   "MK8 Shell Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Shell Cup (TT200)|"
   },
   "MK8 Banana Cup (50cc)": {
     "connects_to": [],
@@ -1469,11 +1469,11 @@
   },
   "MK8 Banana Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Banana Cup (TT150)|"
   },
   "MK8 Banana Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Banana Cup (TT200)|"
   },
   "MK8 Leaf Cup (50cc)": {
     "connects_to": [],
@@ -1497,11 +1497,11 @@
   },
   "MK8 Leaf Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Leaf Cup (TT150)|"
   },
   "MK8 Leaf Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Leaf Cup (TT200)|"
   },
   "MK8 Lightning Cup (50cc)": {
     "connects_to": [],
@@ -1525,11 +1525,11 @@
   },
   "MK8 Lightning Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Lightning Cup (TT150)|"
   },
   "MK8 Lightning Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Lightning Cup (TT200)|"
   },
   "MK8 Egg Cup (50cc)": {
     "connects_to": [],
@@ -1553,11 +1553,11 @@
   },
   "MK8 Egg Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Egg Cup (TT150)|"
   },
   "MK8 Egg Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Egg Cup (TT200)|"
   },
   "MK8 Triforce Cup (50cc)": {
     "connects_to": [],
@@ -1581,11 +1581,11 @@
   },
   "MK8 Triforce Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Triforce Cup (TT150)|"
   },
   "MK8 Triforce Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Triforce Cup (TT200)|"
   },
   "MK8 Crossing Cup (50cc)": {
     "connects_to": [],
@@ -1609,11 +1609,11 @@
   },
   "MK8 Crossing Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Crossing Cup (TT150)|"
   },
   "MK8 Crossing Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Crossing Cup (TT200)|"
   },
   "MK8 Bell Cup (50cc)": {
     "connects_to": [],
@@ -1637,11 +1637,11 @@
   },
   "MK8 Bell Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Bell Cup (TT150)|"
   },
   "MK8 Bell Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Bell Cup (TT200)|"
   },
   "MK8 Golden Dash Cup (50cc)": {
     "connects_to": [],
@@ -1665,11 +1665,11 @@
   },
   "MK8 Golden Dash Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Golden Dash Cup (TT150)|"
   },
   "MK8 Golden Dash Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Golden Dash Cup (TT200)|"
   },
   "MK8 Lucky Cat Cup (50cc)": {
     "connects_to": [],
@@ -1693,11 +1693,11 @@
   },
   "MK8 Lucky Cat Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Lucky Cat Cup (TT150)|"
   },
   "MK8 Lucky Cat Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Lucky Cat Cup (TT200)|"
   },
   "MK8 Turnip Cup (50cc)": {
     "connects_to": [],
@@ -1721,11 +1721,11 @@
   },
   "MK8 Turnip Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Turnip Cup (TT150)|"
   },
   "MK8 Turnip Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Turnip Cup (TT200)|"
   },
   "MK8 Propeller Cup (50cc)": {
     "connects_to": [],
@@ -1749,11 +1749,11 @@
   },
   "MK8 Propeller Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Propeller Cup (TT150)|"
   },
   "MK8 Propeller Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Propeller Cup (TT200)|"
   },
   "MK8 Rock Cup (50cc)": {
     "connects_to": [],
@@ -1777,11 +1777,11 @@
   },
   "MK8 Rock Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Rock Cup (TT150)|"
   },
   "MK8 Rock Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Rock Cup (TT200)|"
   },
   "MK8 Moon Cup (50cc)": {
     "connects_to": [],
@@ -1805,11 +1805,11 @@
   },
   "MK8 Moon Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Moon Cup (TT150)|"
   },
   "MK8 Moon Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Moon Cup (TT200)|"
   },
   "MK8 Fruit Cup (50cc)": {
     "connects_to": [],
@@ -1833,11 +1833,11 @@
   },
   "MK8 Fruit Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Fruit Cup (TT150)|"
   },
   "MK8 Fruit Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Fruit Cup (TT200)|"
   },
   "MK8 Boomerang Cup (50cc)": {
     "connects_to": [],
@@ -1861,11 +1861,11 @@
   },
   "MK8 Boomerang Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Boomerang Cup (TT150)|"
   },
   "MK8 Boomerang Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Boomerang Cup (TT200)|"
   },
   "MK8 Feather Cup (50cc)": {
     "connects_to": [],
@@ -1889,11 +1889,11 @@
   },
   "MK8 Feather Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Feather Cup (TT150)|"
   },
   "MK8 Feather Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Feather Cup (TT200)|"
   },
   "MK8 Cherry Cup (50cc)": {
     "connects_to": [],
@@ -1917,11 +1917,11 @@
   },
   "MK8 Cherry Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Cherry Cup (TT150)|"
   },
   "MK8 Cherry Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Cherry Cup (TT200)|"
   },
   "MK8 Acorn Cup (50cc)": {
     "connects_to": [],
@@ -1945,11 +1945,11 @@
   },
   "MK8 Acorn Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Acorn Cup (TT150)|"
   },
   "MK8 Acorn Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Acorn Cup (TT200)|"
   },
   "MK8 Spiny Cup (50cc)": {
     "connects_to": [],
@@ -1973,11 +1973,11 @@
   },
   "MK8 Spiny Cup (TT150)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (150cc)|"
+    "requires": "|Spiny Cup (TT150)|"
   },
   "MK8 Spiny Cup (TT200)": {
     "connects_to": [],
-    "requires": "|Time Trial (MK8) (200cc)|"
+    "requires": "|Spiny Cup (TT200)|"
   },
   "MKWld": {
     "connects_to": [
@@ -2053,7 +2053,7 @@
   },
   "MKWld Mushroom Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKWld)|"
+    "requires": "|Mushroom Cup (TT150)|"
   },
   "MKWld Flower Cup (50cc)": {
     "connects_to": [],
@@ -2073,7 +2073,7 @@
   },
   "MKWld Flower Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKWld)|"
+    "requires": "|Flower Cup (TT150)|"
   },
   "MKWld Star Cup (50cc)": {
     "connects_to": [],
@@ -2093,7 +2093,7 @@
   },
   "MKWld Star Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKWld)|"
+    "requires": "|Star Cup (TT150)|"
   },
   "MKWld Special Cup (50cc)": {
     "connects_to": [],
@@ -2113,7 +2113,7 @@
   },
   "MKWld Special Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKWld)|"
+    "requires": "|Special Cup (TT150)|"
   },
   "MKWld Shell Cup (50cc)": {
     "connects_to": [],
@@ -2133,7 +2133,7 @@
   },
   "MKWld Shell Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKWld)|"
+    "requires": "|Shell Cup (TT150)|"
   },
   "MKWld Banana Cup (50cc)": {
     "connects_to": [],
@@ -2153,7 +2153,7 @@
   },
   "MKWld Banana Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKWld)|"
+    "requires": "|Banana Cup (TT150)|"
   },
   "MKWld Leaf Cup (50cc)": {
     "connects_to": [],
@@ -2173,7 +2173,7 @@
   },
   "MKWld Leaf Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKWld)|"
+    "requires": "|Leaf Cup (TT150)|"
   },
   "MKWld Lightning Cup (50cc)": {
     "connects_to": [],
@@ -2193,7 +2193,7 @@
   },
   "MKWld Lightning Cup (TT)": {
     "connects_to": [],
-    "requires": "|Time Trial (MKWld)|"
+    "requires": "|Lightning Cup (TT150)|"
   },
   "MKWld Golden Rally": {
     "connects_to": [],
