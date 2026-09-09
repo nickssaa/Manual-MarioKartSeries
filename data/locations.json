@@ -1454,7 +1454,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Ghost Valley 1 (50cc)",
+      "name": "SNES Ghost Valley 1 (MKSC) (50cc)",
       "region": "MKSC Extra Mushroom Cup (50cc)",
       "category": ["MKSC Extra Mushroom Cup"],
       "requires": ""
@@ -1478,7 +1478,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Ghost Valley 1 (100cc)",
+      "name": "SNES Ghost Valley 1 (MKSC) (100cc)",
       "region": "MKSC Extra Mushroom Cup (100cc)",
       "category": ["MKSC Extra Mushroom Cup"],
       "requires": ""
@@ -1502,7 +1502,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Ghost Valley 1 (150cc)",
+      "name": "SNES Ghost Valley 1 (MKSC) (150cc)",
       "region": "MKSC Extra Mushroom Cup (150cc)",
       "category": ["MKSC Extra Mushroom Cup"],
       "requires": ""
@@ -1526,7 +1526,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Ghost Valley 1 (TT)",
+      "name": "SNES Ghost Valley 1 (MKSC) (TT)",
       "region": "MKSC Extra Mushroom Cup (TT)",
       "category": ["MKSC Extra Mushroom Cup"],
       "requires": ""
@@ -1544,7 +1544,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Choco Island 1 (50cc)",
+      "name": "SNES Choco Island 1 (MKSC) (50cc)",
       "region": "MKSC Extra Flower Cup (50cc)",
       "category": ["MKSC Extra Flower Cup"],
       "requires": ""
@@ -1568,7 +1568,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Choco Island 1 (100cc)",
+      "name": "SNES Choco Island 1 (MKSC) (100cc)",
       "region": "MKSC Extra Flower Cup (100cc)",
       "category": ["MKSC Extra Flower Cup"],
       "requires": ""
@@ -1592,7 +1592,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Choco Island 1 (150cc)",
+      "name": "SNES Choco Island 1 (MKSC) (150cc)",
       "region": "MKSC Extra Flower Cup (150cc)",
       "category": ["MKSC Extra Flower Cup"],
       "requires": ""
@@ -1616,7 +1616,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Choco Island 1 (TT)",
+      "name": "SNES Choco Island 1 (MKSC) (TT)",
       "region": "MKSC Extra Flower Cup (TT)",
       "category": ["MKSC Extra Flower Cup"],
       "requires": ""
@@ -1730,7 +1730,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Vanilla Lake 1 (50cc)",
+      "name": "SNES Vanilla Lake 1 (MKSC) (50cc)",
       "region": "MKSC Extra Star Cup (50cc)",
       "category": ["MKSC Extra Star Cup"],
       "requires": ""
@@ -1754,7 +1754,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Vanilla Lake 1 (100cc)",
+      "name": "SNES Vanilla Lake 1 (MKSC) (100cc)",
       "region": "MKSC Extra Star Cup (100cc)",
       "category": ["MKSC Extra Star Cup"],
       "requires": ""
@@ -1778,7 +1778,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Vanilla Lake 1 (150cc)",
+      "name": "SNES Vanilla Lake 1 (MKSC) (150cc)",
       "region": "MKSC Extra Star Cup (150cc)",
       "category": ["MKSC Extra Star Cup"],
       "requires": ""
@@ -1802,7 +1802,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Vanilla Lake 1 (TT)",
+      "name": "SNES Vanilla Lake 1 (MKSC) (TT)",
       "region": "MKSC Extra Star Cup (TT)",
       "category": ["MKSC Extra Star Cup"],
       "requires": ""
@@ -1832,7 +1832,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Ghost Valley 3 (50cc)",
+      "name": "SNES Ghost Valley 3 (MKSC) (50cc)",
       "region": "MKSC Extra Special Cup (50cc)",
       "category": ["MKSC Extra Special Cup"],
       "requires": ""
@@ -1856,7 +1856,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Ghost Valley 3 (100cc)",
+      "name": "SNES Ghost Valley 3 (MKSC) (100cc)",
       "region": "MKSC Extra Special Cup (100cc)",
       "category": ["MKSC Extra Special Cup"],
       "requires": ""
@@ -1880,7 +1880,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Ghost Valley 3 (150cc)",
+      "name": "SNES Ghost Valley 3 (MKSC) (150cc)",
       "region": "MKSC Extra Special Cup (150cc)",
       "category": ["MKSC Extra Special Cup"],
       "requires": ""
@@ -1904,7 +1904,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Ghost Valley 3 (TT)",
+      "name": "SNES Ghost Valley 3 (MKSC) (TT)",
       "region": "MKSC Extra Special Cup (TT)",
       "category": ["MKSC Extra Special Cup"],
       "requires": ""
@@ -2906,7 +2906,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Mario Circuit 1 (50cc)",
+      "name": "SNES Mario Circuit 1 (MKDS) (50cc)",
       "region": "MKDS Shell Cup (50cc)",
       "category": ["MKDS Shell Cup"],
       "requires": ""
@@ -2930,7 +2930,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Mario Circuit 1 (100cc)",
+      "name": "SNES Mario Circuit 1 (MKDS) (100cc)",
       "region": "MKDS Shell Cup (100cc)",
       "category": ["MKDS Shell Cup"],
       "requires": ""
@@ -2954,7 +2954,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Mario Circuit 1 (150cc)",
+      "name": "SNES Mario Circuit 1 (MKDS) (150cc)",
       "region": "MKDS Shell Cup (150cc)",
       "category": ["MKDS Shell Cup"],
       "requires": ""
@@ -2978,7 +2978,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Mario Circuit 1 (MM)",
+      "name": "SNES Mario Circuit 1 (MKDS) (MM)",
       "region": "MKDS Shell Cup (MM)",
       "category": ["MKDS Shell Cup"],
       "requires": ""
@@ -3002,7 +3002,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Mario Circuit 1 (TT)",
+      "name": "SNES Mario Circuit 1 (MKDS) (TT)",
       "region": "MKDS Shell Cup (TT)",
       "category": ["MKDS Shell Cup"],
       "requires": ""
@@ -3026,7 +3026,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Donut Plains 1 (50cc)",
+      "name": "SNES Donut Plains 1 (MKDS) (50cc)",
       "region": "MKDS Banana Cup (50cc)",
       "category": ["MKDS Banana Cup"],
       "requires": ""
@@ -3050,7 +3050,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Donut Plains 1 (100cc)",
+      "name": "SNES Donut Plains 1 (MKDS) (100cc)",
       "region": "MKDS Banana Cup (100cc)",
       "category": ["MKDS Banana Cup"],
       "requires": ""
@@ -3074,7 +3074,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Donut Plains 1 (150cc)",
+      "name": "SNES Donut Plains 1 (MKDS) (150cc)",
       "region": "MKDS Banana Cup (150cc)",
       "category": ["MKDS Banana Cup"],
       "requires": ""
@@ -3098,7 +3098,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Donut Plains 1 (MM)",
+      "name": "SNES Donut Plains 1 (MKDS) (MM)",
       "region": "MKDS Banana Cup (MM)",
       "category": ["MKDS Banana Cup"],
       "requires": ""
@@ -3122,7 +3122,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Donut Plains 1 (TT)",
+      "name": "SNES Donut Plains 1 (MKDS) (TT)",
       "region": "MKDS Banana Cup (TT)",
       "category": ["MKDS Banana Cup"],
       "requires": ""
@@ -3146,7 +3146,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Koopa Beach 2 (50cc)",
+      "name": "SNES Koopa Beach 2 (MKDS) (50cc)",
       "region": "MKDS Leaf Cup (50cc)",
       "category": ["MKDS Leaf Cup"],
       "requires": ""
@@ -3170,7 +3170,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Koopa Beach 2 (100cc)",
+      "name": "SNES Koopa Beach 2 (MKDS) (100cc)",
       "region": "MKDS Leaf Cup (100cc)",
       "category": ["MKDS Leaf Cup"],
       "requires": ""
@@ -3194,7 +3194,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Koopa Beach 2 (150cc)",
+      "name": "SNES Koopa Beach 2 (MKDS) (150cc)",
       "region": "MKDS Leaf Cup (150cc)",
       "category": ["MKDS Leaf Cup"],
       "requires": ""
@@ -3218,7 +3218,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Koopa Beach 2 (MM)",
+      "name": "SNES Koopa Beach 2 (MKDS) (MM)",
       "region": "MKDS Leaf Cup (MM)",
       "category": ["MKDS Leaf Cup"],
       "requires": ""
@@ -3242,7 +3242,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Koopa Beach 2 (TT)",
+      "name": "SNES Koopa Beach 2 (MKDS) (TT)",
       "region": "MKDS Leaf Cup (TT)",
       "category": ["MKDS Leaf Cup"],
       "requires": ""
@@ -3266,7 +3266,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Choco Island 2 (50cc)",
+      "name": "SNES Choco Island 2 (MKDS) (50cc)",
       "region": "MKDS Lightning Cup (50cc)",
       "category": ["MKDS Lightning Cup"],
       "requires": ""
@@ -3290,7 +3290,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Choco Island 2 (100cc)",
+      "name": "SNES Choco Island 2 (MKDS) (100cc)",
       "region": "MKDS Lightning Cup (100cc)",
       "category": ["MKDS Lightning Cup"],
       "requires": ""
@@ -3314,7 +3314,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Choco Island 2 (150cc)",
+      "name": "SNES Choco Island 2 (MKDS) (150cc)",
       "region": "MKDS Lightning Cup (150cc)",
       "category": ["MKDS Lightning Cup"],
       "requires": ""
@@ -3338,7 +3338,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Choco Island 2 (MM)",
+      "name": "SNES Choco Island 2 (MKDS) (MM)",
       "region": "MKDS Lightning Cup (MM)",
       "category": ["MKDS Lightning Cup"],
       "requires": ""
@@ -3362,7 +3362,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Choco Island 2 (TT)",
+      "name": "SNES Choco Island 2 (MKDS) (TT)",
       "region": "MKDS Lightning Cup (TT)",
       "category": ["MKDS Lightning Cup"],
       "requires": ""
@@ -3878,7 +3878,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Ghost Valley 2 (50cc)",
+      "name": "SNES Ghost Valley 2 (MKWii) (50cc)",
       "region": "MKWii Shell Cup (50cc)",
       "category": ["MKWii Shell Cup"],
       "requires": ""
@@ -3902,7 +3902,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Ghost Valley 2 (100cc)",
+      "name": "SNES Ghost Valley 2 (MKWii) (100cc)",
       "region": "MKWii Shell Cup (100cc)",
       "category": ["MKWii Shell Cup"],
       "requires": ""
@@ -3926,7 +3926,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Ghost Valley 2 (150cc)",
+      "name": "SNES Ghost Valley 2 (MKWii) (150cc)",
       "region": "MKWii Shell Cup (150cc)",
       "category": ["MKWii Shell Cup"],
       "requires": ""
@@ -3950,7 +3950,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Ghost Valley 2 (MM)",
+      "name": "SNES Ghost Valley 2 (MKWii) (MM)",
       "region": "MKWii Shell Cup (MM)",
       "category": ["MKWii Shell Cup"],
       "requires": ""
@@ -3974,7 +3974,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Ghost Valley 2 (TT)",
+      "name": "SNES Ghost Valley 2 (MKWii) (TT)",
       "region": "MKWii Shell Cup (TT)",
       "category": ["MKWii Shell Cup"],
       "requires": ""
@@ -4952,7 +4952,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Mario Circuit 2 (50cc)",
+      "name": "SNES Mario Circuit 2 (MK7) (50cc)",
       "region": "MK7 Banana Cup (50cc)",
       "category": ["MK7 Banana Cup"],
       "requires": ""
@@ -4976,7 +4976,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Mario Circuit 2 (100cc)",
+      "name": "SNES Mario Circuit 2 (MK7) (100cc)",
       "region": "MK7 Banana Cup (100cc)",
       "category": ["MK7 Banana Cup"],
       "requires": ""
@@ -5000,7 +5000,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Mario Circuit 2 (150cc)",
+      "name": "SNES Mario Circuit 2 (MK7) (150cc)",
       "region": "MK7 Banana Cup (150cc)",
       "category": ["MK7 Banana Cup"],
       "requires": ""
@@ -5024,7 +5024,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Mario Circuit 2 (MM)",
+      "name": "SNES Mario Circuit 2 (MK7) (MM)",
       "region": "MK7 Banana Cup (MM)",
       "category": ["MK7 Banana Cup"],
       "requires": ""
@@ -5048,7 +5048,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Mario Circuit 2 (TT)",
+      "name": "SNES Mario Circuit 2 (MK7) (TT)",
       "region": "MK7 Banana Cup (TT)",
       "category": ["MK7 Banana Cup"],
       "requires": ""
@@ -6152,7 +6152,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Donut Plains 3 (50cc)",
+      "name": "SNES Donut Plains 3 (MK8) (50cc)",
       "region": "MK8 Banana Cup (50cc)",
       "category": ["MK8 Banana Cup"],
       "requires": ""
@@ -6176,7 +6176,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Donut Plains 3 (100cc)",
+      "name": "SNES Donut Plains 3 (MK8) (100cc)",
       "region": "MK8 Banana Cup (100cc)",
       "category": ["MK8 Banana Cup"],
       "requires": ""
@@ -6200,7 +6200,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Donut Plains 3 (150cc)",
+      "name": "SNES Donut Plains 3 (MK8) (150cc)",
       "region": "MK8 Banana Cup (150cc)",
       "category": ["MK8 Banana Cup"],
       "requires": ""
@@ -6224,7 +6224,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Donut Plains 3 (MM)",
+      "name": "SNES Donut Plains 3 (MK8) (MM)",
       "region": "MK8 Banana Cup (MM)",
       "category": ["MK8 Banana Cup"],
       "requires": ""
@@ -6248,7 +6248,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Donut Plains 3 (200cc)",
+      "name": "SNES Donut Plains 3 (MK8) (200cc)",
       "region": "MK8 Banana Cup (200cc)",
       "category": ["MK8 Banana Cup"],
       "requires": ""
@@ -6272,7 +6272,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Donut Plains 3 (TT150)",
+      "name": "SNES Donut Plains 3 (MK8) (TT150)",
       "region": "MK8 Banana Cup (TT150)",
       "category": ["MK8 Banana Cup"],
       "requires": ""
@@ -6296,7 +6296,7 @@
       "requires": ""
     },
     {
-      "name": "SNES Donut Plains 3 (TT200)",
+      "name": "SNES Donut Plains 3 (MK8) (TT200)",
       "region": "MK8 Banana Cup (TT200)",
       "category": ["MK8 Banana Cup"],
       "requires": ""
@@ -10523,6 +10523,246 @@
       "name": "Boomerang Rally (MM)",
       "region": "MKWld Boomerang Rally",
       "category": ["MKWld Boomerang Rally"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Mario Circuit 1 (MKWld) (50cc)",
+      "region": "MKWld Bonus SNES Tracks (50cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Mario Circuit 1 (MKWld) (100cc)",
+      "region": "MKWld Bonus SNES Tracks (100cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Mario Circuit 1 (MKWld) (150cc)",
+      "region": "MKWld Bonus SNES Tracks (150cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Mario Circuit 1 (MKWld) (MM)",
+      "region": "MKWld Bonus SNES Tracks (MM)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Mario Circuit 2 (MKWld) (50cc)",
+      "region": "MKWld Bonus SNES Tracks (50cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Mario Circuit 2 (MKWld) (100cc)",
+      "region": "MKWld Bonus SNES Tracks (100cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Mario Circuit 2 (MKWld) (150cc)",
+      "region": "MKWld Bonus SNES Tracks (150cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Mario Circuit 2 (MKWld) (MM)",
+      "region": "MKWld Bonus SNES Tracks (MM)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Mario Circuit 3 (MKWld) (50cc)",
+      "region": "MKWld Bonus SNES Tracks (50cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Mario Circuit 3 (MKWld) (100cc)",
+      "region": "MKWld Bonus SNES Tracks (100cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Mario Circuit 3 (MKWld) (150cc)",
+      "region": "MKWld Bonus SNES Tracks (150cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Mario Circuit 3 (MKWld) (MM)",
+      "region": "MKWld Bonus SNES Tracks (MM)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Ghost Valley 1 (MKWld) (50cc)",
+      "region": "MKWld Bonus SNES Tracks (50cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Ghost Valley 1 (MKWld) (100cc)",
+      "region": "MKWld Bonus SNES Tracks (100cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Ghost Valley 1 (MKWld) (150cc)",
+      "region": "MKWld Bonus SNES Tracks (150cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Ghost Valley 1 (MKWld) (MM)",
+      "region": "MKWld Bonus SNES Tracks (MM)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Ghost Valley 2 (MKWld) (50cc)",
+      "region": "MKWld Bonus SNES Tracks (50cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Ghost Valley 2 (MKWld) (100cc)",
+      "region": "MKWld Bonus SNES Tracks (100cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Ghost Valley 2 (MKWld) (150cc)",
+      "region": "MKWld Bonus SNES Tracks (150cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Ghost Valley 2 (MKWld) (MM)",
+      "region": "MKWld Bonus SNES Tracks (MM)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Ghost Valley 3 (MKWld) (50cc)",
+      "region": "MKWld Bonus SNES Tracks (50cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Ghost Valley 3 (MKWld) (100cc)",
+      "region": "MKWld Bonus SNES Tracks (100cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Ghost Valley 3 (MKWld) (150cc)",
+      "region": "MKWld Bonus SNES Tracks (150cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Ghost Valley 3 (MKWld) (MM)",
+      "region": "MKWld Bonus SNES Tracks (MM)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Choco Island 1 (MKWld) (50cc)",
+      "region": "MKWld Bonus SNES Tracks (50cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Choco Island 1 (MKWld) (100cc)",
+      "region": "MKWld Bonus SNES Tracks (100cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Choco Island 1 (MKWld) (150cc)",
+      "region": "MKWld Bonus SNES Tracks (150cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Choco Island 1 (MKWld) (MM)",
+      "region": "MKWld Bonus SNES Tracks (MM)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Choco Island 2 (MKWld) (50cc)",
+      "region": "MKWld Bonus SNES Tracks (50cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Choco Island 2 (MKWld) (100cc)",
+      "region": "MKWld Bonus SNES Tracks (100cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Choco Island 2 (MKWld) (150cc)",
+      "region": "MKWld Bonus SNES Tracks (150cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Choco Island 2 (MKWld) (MM)",
+      "region": "MKWld Bonus SNES Tracks (MM)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Koopa Beach 1 (MKWld) (50cc)",
+      "region": "MKWld Bonus SNES Tracks (50cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Koopa Beach 1 (MKWld) (100cc)",
+      "region": "MKWld Bonus SNES Tracks (100cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Koopa Beach 1 (MKWld) (150cc)",
+      "region": "MKWld Bonus SNES Tracks (150cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Koopa Beach 1 (MKWld) (MM)",
+      "region": "MKWld Bonus SNES Tracks (MM)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Vanilla Lake 1 (MKWld) (50cc)",
+      "region": "MKWld Bonus SNES Tracks (50cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Vanilla Lake 1 (MKWld) (100cc)",
+      "region": "MKWld Bonus SNES Tracks (100cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Vanilla Lake 1 (MKWld) (150cc)",
+      "region": "MKWld Bonus SNES Tracks (150cc)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Vanilla Lake 1 (MKWld) (MM)",
+      "region": "MKWld Bonus SNES Tracks (MM)",
+      "category": ["MKWld Bonus SNES Tracks"],
       "requires": ""
     },
     {
