@@ -429,7 +429,7 @@
       "MKDD All Cup Tour"
     ],
     "starting": true,
-    "requires": "|Mario Kart Double Dash!!| AND (|@Light Characters (MKDD):2| AND |@Light Karts (MKDD)|) OR ((|@Medium Characters (MKDD):2| OR (|@Medium Characters (MKDD)| AND |@Light Characters (MKDD)|)) AND |@Medium Karts (MKDD)|) OR (|@Heavy Characters (MKDD)| AND |@Characters (MKDD):2| AND |@Heavy Karts (MKDD)|)"
+    "requires": "|Mario Kart Double Dash!!| AND ((|@Light Characters (MKDD):2| AND |@Light Karts (MKDD)|) OR ((|@Medium Characters (MKDD):2| OR (|@Medium Characters (MKDD)| AND |@Light Characters (MKDD)|)) AND |@Medium Karts (MKDD)|) OR (|@Heavy Characters (MKDD)| AND |@Characters (MKDD):2| AND |@Heavy Karts (MKDD)|))"
   },
   "MKDD Mushroom Cup (50cc)": {
     "connects_to": [],
