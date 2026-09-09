@@ -3386,6 +3386,78 @@
       "requires": ""
     },
     {
+      "name": "Nintendo DS (BB)",
+      "region": "MKDS Balloon Battle",
+      "category": ["MKDS Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Twilight House (BB)",
+      "region": "MKDS Balloon Battle",
+      "category": ["MKDS Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Palm Shore (BB)",
+      "region": "MKDS Balloon Battle",
+      "category": ["MKDS Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Tart Top (BB)",
+      "region": "MKDS Balloon Battle",
+      "category": ["MKDS Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "N64 Block Fort (BB)",
+      "region": "MKDS Balloon Battle",
+      "category": ["MKDS Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "GCN Pipe Plaza (BB)",
+      "region": "MKDS Balloon Battle",
+      "category": ["MKDS Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Nintendo DS (SR)",
+      "region": "MKDS Shine Runners",
+      "category": ["MKDS Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Twilight House (SR)",
+      "region": "MKDS Shine Runners",
+      "category": ["MKDS Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Palm Shore (SR)",
+      "region": "MKDS Shine Runners",
+      "category": ["MKDS Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Tart Top (SR)",
+      "region": "MKDS Shine Runners",
+      "category": ["MKDS Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "N64 Block Fort (SR)",
+      "region": "MKDS Shine Runners",
+      "category": ["MKDS Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "GCN Pipe Plaza (SR)",
+      "region": "MKDS Shine Runners",
+      "category": ["MKDS Battle Mode"],
+      "requires": ""
+    },
+    {
       "name": "Mission Mode Level 1-1",
       "region": "MKDS Mission Mode 1",
       "category": ["MKDS Mission Mode"],
@@ -4724,6 +4796,126 @@
       "requires": ""
     },
     {
+      "name": "Block Plaza (BB)",
+      "region": "MKWii Balloon Battle",
+      "category": ["MKWii Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Delfino Pier (BB)",
+      "region": "MKWii Balloon Battle",
+      "category": ["MKWii Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Funky Stadium (BB)",
+      "region": "MKWii Balloon Battle",
+      "category": ["MKWii Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Chain Chomp Wheel (BB)",
+      "region": "MKWii Balloon Battle",
+      "category": ["MKWii Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Thwomp Desert (BB)",
+      "region": "MKWii Balloon Battle",
+      "category": ["MKWii Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Battle Course 4 (BB)",
+      "region": "MKWii Balloon Battle",
+      "category": ["MKWii Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "GBA Battle Course 3 (BB)",
+      "region": "MKWii Balloon Battle",
+      "category": ["MKWii Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "N64 Skyscraper (BB)",
+      "region": "MKWii Balloon Battle",
+      "category": ["MKWii Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "GCN Cookie Land (BB)",
+      "region": "MKWii Balloon Battle",
+      "category": ["MKWii Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "DS Twilight House (BB)",
+      "region": "MKWii Balloon Battle",
+      "category": ["MKWii Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Block Plaza (CR)",
+      "region": "MKWii Coin Runners",
+      "category": ["MKWii Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Delfino Pier (CR)",
+      "region": "MKWii Coin Runners",
+      "category": ["MKWii Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Funky Stadium (CR)",
+      "region": "MKWii Coin Runners",
+      "category": ["MKWii Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Chain Chomp Wheel (CR)",
+      "region": "MKWii Coin Runners",
+      "category": ["MKWii Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Thwomp Desert (CR)",
+      "region": "MKWii Coin Runners",
+      "category": ["MKWii Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Battle Course 4 (CR)",
+      "region": "MKWii Coin Runners",
+      "category": ["MKWii Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "GBA Battle Course 3 (CR)",
+      "region": "MKWii Coin Runners",
+      "category": ["MKWii Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "N64 Skyscraper (CR)",
+      "region": "MKWii Coin Runners",
+      "category": ["MKWii Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "GCN Cookie Land (CR)",
+      "region": "MKWii Coin Runners",
+      "category": ["MKWii Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "DS Twilight House (CR)",
+      "region": "MKWii Coin Runners",
+      "category": ["MKWii Battle Mode"],
+      "requires": ""
+    },
+    {
       "name": "Toad Circuit (50cc)",
       "region": "MK7 Mushroom Cup (50cc)",
       "category": ["MK7 Mushroom Cup"],
@@ -5681,6 +5873,78 @@
       "name": "SNES Rainbow Road (MK7) (TT)",
       "region": "MK7 Lightning Cup (TT)",
       "category": ["MK7 Lightning Cup"],
+      "requires": ""
+    },
+    {
+      "name": "Honeybee Hive (BB)",
+      "region": "MK7 Balloon Battle",
+      "category": ["MK7 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Sherbet Rink (BB)",
+      "region": "MK7 Balloon Battle",
+      "category": ["MK7 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Wuhu Town (BB)",
+      "region": "MK7 Balloon Battle",
+      "category": ["MK7 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "GBA Battle Course 1 (BB)",
+      "region": "MK7 Balloon Battle",
+      "category": ["MK7 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "N64 Big Donut (MK7) (BB)",
+      "region": "MK7 Balloon Battle",
+      "category": ["MK7 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "DS Palm Shore (BB)",
+      "region": "MK7 Balloon Battle",
+      "category": ["MK7 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Honeybee Hive (CR)",
+      "region": "MK7 Coin Runners",
+      "category": ["MK7 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Sherbet Rink (CR)",
+      "region": "MK7 Coin Runners",
+      "category": ["MK7 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Wuhu Town (CR)",
+      "region": "MK7 Coin Runners",
+      "category": ["MK7 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "GBA Battle Course 1 (CR)",
+      "region": "MK7 Coin Runners",
+      "category": ["MK7 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "N64 Big Donut (MK7) (CR)",
+      "region": "MK7 Coin Runners",
+      "category": ["MK7 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "DS Palm Shore (CR)",
+      "region": "MK7 Coin Runners",
+      "category": ["MK7 Battle Mode"],
       "requires": ""
     },
     {
@@ -9716,6 +9980,246 @@
       "requires": ""
     },
     {
+      "name": "Battle Stadium (BB)",
+      "region": "MK8 Balloon Battle",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Sweet Sweet Kingdom (BB)",
+      "region": "MK8 Balloon Battle",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Dragon Palace (BB)",
+      "region": "MK8 Balloon Battle",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Lunar Colony (BB)",
+      "region": "MK8 Balloon Battle",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "3DS Wuhu Town (BB)",
+      "region": "MK8 Balloon Battle",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "GCN Luigi's Mansion (BB)",
+      "region": "MK8 Balloon Battle",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Battle Course 1 (BB)",
+      "region": "MK8 Balloon Battle",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Urchin Underpass (BB)",
+      "region": "MK8 Balloon Battle",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Battle Stadium (RR)",
+      "region": "MK8 Renegade Roundup",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Sweet Sweet Kingdom (RR)",
+      "region": "MK8 Renegade Roundup",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Dragon Palace (RR)",
+      "region": "MK8 Renegade Roundup",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Lunar Colony (RR)",
+      "region": "MK8 Renegade Roundup",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "3DS Wuhu Town (RR)",
+      "region": "MK8 Renegade Roundup",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "GCN Luigi's Mansion (RR)",
+      "region": "MK8 Renegade Roundup",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Battle Course 1 (RR)",
+      "region": "MK8 Renegade Roundup",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Urchin Underpass (RR)",
+      "region": "MK8 Renegade Roundup",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Battle Stadium (BoB)",
+      "region": "MK8 Bob-omb Blast",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Sweet Sweet Kingdom (BoB)",
+      "region": "MK8 Bob-omb Blast",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Dragon Palace (BoB)",
+      "region": "MK8 Bob-omb Blast",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Lunar Colony (BoB)",
+      "region": "MK8 Bob-omb Blast",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "3DS Wuhu Town (BoB)",
+      "region": "MK8 Bob-omb Blast",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "GCN Luigi's Mansion (BoB)",
+      "region": "MK8 Bob-omb Blast",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Battle Course 1 (BoB)",
+      "region": "MK8 Bob-omb Blast",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Urchin Underpass (BoB)",
+      "region": "MK8 Bob-omb Blast",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Battle Stadium (CR)",
+      "region": "MK8 Coin Runners",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Sweet Sweet Kingdom (CR)",
+      "region": "MK8 Coin Runners",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Dragon Palace (CR)",
+      "region": "MK8 Coin Runners",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Lunar Colony (CR)",
+      "region": "MK8 Coin Runners",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "3DS Wuhu Town (CR)",
+      "region": "MK8 Coin Runners",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "GCN Luigi's Mansion (CR)",
+      "region": "MK8 Coin Runners",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Battle Course 1 (CR)",
+      "region": "MK8 Coin Runners",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Urchin Underpass (CR)",
+      "region": "MK8 Coin Runners",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Battle Stadium (ST)",
+      "region": "MK8 Shine Thief",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Sweet Sweet Kingdom (ST)",
+      "region": "MK8 Shine Thief",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Dragon Palace (ST)",
+      "region": "MK8 Shine Thief",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Lunar Colony (ST)",
+      "region": "MK8 Shine Thief",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "3DS Wuhu Town (ST)",
+      "region": "MK8 Shine Thief",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "GCN Luigi's Mansion (ST)",
+      "region": "MK8 Shine Thief",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Battle Course 1 (ST)",
+      "region": "MK8 Shine Thief",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Urchin Underpass (ST)",
+      "region": "MK8 Shine Thief",
+      "category": ["MK8 Battle Mode"],
+      "requires": ""
+    },
+    {
       "name": "Mario Bros. Circuit (50cc)",
       "region": "MKWld Mushroom Cup (50cc)",
       "category": ["MKWld Mushroom Cup"],
@@ -11141,6 +11645,150 @@
       "name": "SNES Vanilla Lake 1 (MKWld) (MM)",
       "region": "MKWld Bonus SNES Tracks (MM)",
       "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "Mario Bros. Circuit (BB)",
+      "region": "MKWld Balloon Battle",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Wii Moo Moo Meadows (BB)",
+      "region": "MKWld Balloon Battle",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Peach Stadium (BB)",
+      "region": "MKWld Balloon Battle",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Salty Salty Speedway (BB)",
+      "region": "MKWld Balloon Battle",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Wii Chain Chomp Desert (BB)",
+      "region": "MKWld Balloon Battle",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "GCN Dino Dino Jungle (BB)",
+      "region": "MKWld Balloon Battle",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "N64 Big Donut (MKWld) (BB)",
+      "region": "MKWld Balloon Battle",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "DS DK Pass (BB)",
+      "region": "MKWld Balloon Battle",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Mario Bros. Circuit (BoB)",
+      "region": "MKWld Bob-omb Blast",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Wii Moo Moo Meadows (BoB)",
+      "region": "MKWld Bob-omb Blast",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Peach Stadium (BoB)",
+      "region": "MKWld Bob-omb Blast",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Salty Salty Speedway (BoB)",
+      "region": "MKWld Bob-omb Blast",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Wii Chain Chomp Desert (BoB)",
+      "region": "MKWld Bob-omb Blast",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "GCN Dino Dino Jungle (BoB)",
+      "region": "MKWld Bob-omb Blast",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "N64 Big Donut (MKWld) (BoB)",
+      "region": "MKWld Bob-omb Blast",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "DS DK Pass (BoB)",
+      "region": "MKWld Bob-omb Blast",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Mario Bros. Circuit (CR)",
+      "region": "MKWld Coin Runners",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Wii Moo Moo Meadows (CR)",
+      "region": "MKWld Coin Runners",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Peach Stadium (CR)",
+      "region": "MKWld Coin Runners",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Salty Salty Speedway (CR)",
+      "region": "MKWld Coin Runners",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "Wii Chain Chomp Desert (CR)",
+      "region": "MKWld Coin Runners",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "GCN Dino Dino Jungle (CR)",
+      "region": "MKWld Coin Runners",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "N64 Big Donut (MKWld) (CR)",
+      "region": "MKWld Coin Runners",
+      "category": ["MKWld Battle Mode"],
+      "requires": ""
+    },
+    {
+      "name": "DS DK Pass (CR)",
+      "region": "MKWld Coin Runners",
+      "category": ["MKWld Battle Mode"],
       "requires": ""
     },
     {

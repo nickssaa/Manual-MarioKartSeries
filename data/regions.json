@@ -557,6 +557,8 @@
       "MKDS Lightning Cup (150cc)",
       "MKDS Lightning Cup (MM)",
       "MKDS Lightning Cup (TT)",
+      "MKDS Balloon Battle",
+      "MKDS Shine Runners",
       "MKDS Mission Mode 1",
       "MKDS Mission Mode 2",
       "MKDS Mission Mode 3",
@@ -728,6 +730,14 @@
     "connects_to": [],
     "requires": "|Lightning Cup (TT150)|"
   },
+  "MKDS Balloon Battle": {
+    "connects_to": [],
+    "requires": "|MKDS Balloon Battle|"
+  },
+  "MKDS Shine Runners": {
+    "connects_to": [],
+    "requires": "|MKDS Shine Runners|"
+  },
   "MKDS Mission Mode 1": {
     "connects_to": [],
     "requires": "|MKDS Mission Mode Pack 1|"
@@ -797,7 +807,9 @@
       "MKWii Lightning Cup (100cc)",
       "MKWii Lightning Cup (150cc)",
       "MKWii Lightning Cup (MM)",
-      "MKWii Lightning Cup (TT)"
+      "MKWii Lightning Cup (TT)",
+      "MKWii Balloon Battle",
+      "MKWii Coin Runners"
     ],
     "starting": true,
     "requires": "|Mario Kart Wii| AND ((|@Small Characters (MKWii)| AND |@Small Karts (MKWii)|) OR (|@Medium Characters (MKWii)| AND |@Medium Karts (MKWii)|) OR (|@Large Characters (MKWii)| AND |@Large Karts (MKWii)|))"
@@ -962,6 +974,14 @@
     "connects_to": [],
     "requires": "|Lightning Cup (TT150)|"
   },
+  "MKWii Balloon Battle": {
+    "connects_to": [],
+    "requires": "|MKWii Balloon Battle|"
+  },
+  "MKWii Coin Runners": {
+    "connects_to": [],
+    "requires": "|MKWii Coin Runners|"
+  },
   "MK7": {
     "connects_to": [
       "MK7 Mushroom Cup (50cc)",
@@ -1003,7 +1023,9 @@
       "MK7 Lightning Cup (100cc)",
       "MK7 Lightning Cup (150cc)",
       "MK7 Lightning Cup (MM)",
-      "MK7 Lightning Cup (TT)"
+      "MK7 Lightning Cup (TT)",
+      "MK7 Balloon Battle",
+      "MK7 Coin Runners"
     ],
     "starting": true,
     "requires": "|Mario Kart 7| AND |@Characters (MK7)| AND |@Karts (MK7)| AND |@Tires (MK7)| AND |@Gliders (MK7)|"
@@ -1167,6 +1189,14 @@
   "MK7 Lightning Cup (TT)": {
     "connects_to": [],
     "requires": "|Lightning Cup (TT150)|"
+  },
+  "MK7 Balloon Battle": {
+    "connects_to": [],
+    "requires": "|MK7 Balloon Battle|"
+  },
+  "MK7 Coin Runners": {
+    "connects_to": [],
+    "requires": "|MK7 Coin Runners|"
   },
   "MK8": {
     "connects_to": [
@@ -1337,7 +1367,12 @@
       "MK8 Spiny Cup (MM)",
       "MK8 Spiny Cup (200cc)",
       "MK8 Spiny Cup (TT150)",
-      "MK8 Spiny Cup (TT200)"
+      "MK8 Spiny Cup (TT200)",
+      "MK8 Balloon Battle",
+      "MK8 Renegade Roundup",
+      "MK8 Bob-omb Blast",
+      "MK8 Coin Runners",
+      "MK8 Shine Thief"
     ],
     "starting": true,
     "requires": "|Mario Kart 8| AND |@Characters (MK8)| AND |@Karts (MK8)| AND |@Tires (MK8)| AND |@Gliders (MK8)|"
@@ -2014,6 +2049,26 @@
     "connects_to": [],
     "requires": "|Spiny Cup (TT200)|"
   },
+  "MK8 Balloon Battle": {
+    "connects_to": [],
+    "requires": "|MK8 Balloon Battle|"
+  },
+  "MK8 Renegade Roundup": {
+    "connects_to": [],
+    "requires": "|MK8 Renegade Roundup|"
+  },
+  "MK8 Bob-omb Blast": {
+    "connects_to": [],
+    "requires": "|MK8 Bob-omb Blast|"
+  },
+  "MK8 Coin Runners": {
+    "connects_to": [],
+    "requires": "|MK8 Coin Runners|"
+  },
+  "MK8 Shine Thief": {
+    "connects_to": [],
+    "requires": "|MK8 Shine Thief|"
+  },
   "MKWld": {
     "connects_to": [
       "MKWld Mushroom Cup (50cc)",
@@ -2069,7 +2124,10 @@
       "MKWld Bonus SNES Tracks (50cc)",
       "MKWld Bonus SNES Tracks (100cc)",
       "MKWld Bonus SNES Tracks (150cc)",
-      "MKWld Bonus SNES Tracks (MM)"
+      "MKWld Bonus SNES Tracks (MM)",
+      "MKWld Balloon Battle",
+      "MKWld Bob-omb Blast",
+      "MKWld Coin Runners"
     ],
     "starting": true,
     "requires": "|Mario Kart World| AND |@Characters (MKWld)| AND |@Karts (MKWld)|"
@@ -2289,6 +2347,17 @@
   "MKWld Bonus SNES Tracks (MM)": {
     "connects_to": [],
     "requires": "|MKWld Bonus SNES Tracks (MM)|"
+  },
+  "MKWld Balloon Battle": {
+    "connects_to": [],
+    "requires": "|MKWld Balloon Battle|"
+  },
+  "MKWld Bob-omb Blast": {
+    "connects_to": [],
+    "requires": "|MKWld Bob-omb Blast|"
+  },
+  "MKWld Coin Runners": {
+    "connects_to": [],
+    "requires": "|MKWld Coin Runners|"
   }
-
 }
