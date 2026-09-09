@@ -1974,6 +1974,42 @@
         },
         {
             "count": 1,
+            "name": "MKWld Bonus SNES Tracks (50cc)",
+            "category": [
+                "Cups",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MKWld Bonus SNES Tracks (100cc)",
+            "category": [
+                "Cups",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MKWld Bonus SNES Tracks (150cc)",
+            "category": [
+                "Cups",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MKWld Bonus SNES Tracks (MM)",
+            "category": [
+                "Cups",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
             "name": "Golden Rally",
             "category": [
                 "Cups",
@@ -2886,12 +2922,6 @@
                 "Characters",
                 "Characters (MKWld)"
             ],
-            "progression": true
-        },
-        {
-            "count": 1,
-            "name": "Time Trial (MKWld)",
-            "category": ["MKWld"],
             "progression": true
         },
         {

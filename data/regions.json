@@ -2030,7 +2030,11 @@
       "MKWld Cloud Rally",
       "MKWld Heart Rally",
       "MKWld Drill Rally",
-      "MKWld Boomerang Rally"
+      "MKWld Boomerang Rally",
+      "MKWld Bonus SNES Tracks (50cc)",
+      "MKWld Bonus SNES Tracks (100cc)",
+      "MKWld Bonus SNES Tracks (150cc)",
+      "MKWld Bonus SNES Tracks (MM)"
     ],
     "starting": true,
     "requires": "|Mario Kart World| AND |@Characters (MKWld)| AND |@Karts (MKWld)|"
@@ -2234,5 +2238,22 @@
   "MKWld Boomerang Rally": {
     "connects_to": [],
     "requires": "|Boomerang Rally|"
+  },
+  "MKWld Bonus SNES Tracks (50cc)": {
+    "connects_to": [],
+    "requires": "|MKWld Bonus SNES Tracks (50cc)|"
+  },
+  "MKWld Bonus SNES Tracks (100cc)": {
+    "connects_to": [],
+    "requires": "|MKWld Bonus SNES Tracks (100cc)|"
+  },
+  "MKWld Bonus SNES Tracks (150cc)": {
+    "connects_to": [],
+    "requires": "|MKWld Bonus SNES Tracks (150cc)|"
+  },
+  "MKWld Bonus SNES Tracks (MM)": {
+    "connects_to": [],
+    "requires": "|MKWld Bonus SNES Tracks (MM)|"
   }
+
 }
