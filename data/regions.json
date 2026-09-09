@@ -556,7 +556,14 @@
       "MKDS Lightning Cup (100cc)",
       "MKDS Lightning Cup (150cc)",
       "MKDS Lightning Cup (MM)",
-      "MKDS Lightning Cup (TT)"
+      "MKDS Lightning Cup (TT)",
+      "MKDS Mission Mode 1",
+      "MKDS Mission Mode 2",
+      "MKDS Mission Mode 3",
+      "MKDS Mission Mode 4",
+      "MKDS Mission Mode 5",
+      "MKDS Mission Mode 6",
+      "MKDS Mission Mode 7"
     ],
     "starting": true,
     "requires": "|Mario Kart DS| AND |@Characters (MKDS)| AND |@Karts (MKDS)|"
@@ -720,6 +727,34 @@
   "MKDS Lightning Cup (TT)": {
     "connects_to": [],
     "requires": "|Lightning Cup (TT150)|"
+  },
+  "MKDS Mission Mode 1": {
+    "connects_to": [],
+    "requires": "|MKDS Mission Mode Pack 1|"
+  },
+  "MKDS Mission Mode 2": {
+    "connects_to": [],
+    "requires": "|MKDS Mission Mode Pack 2|"
+  },
+  "MKDS Mission Mode 3": {
+    "connects_to": [],
+    "requires": "|MKDS Mission Mode Pack 3|"
+  },
+  "MKDS Mission Mode 4": {
+    "connects_to": [],
+    "requires": "|MKDS Mission Mode Pack 4|"
+  },
+  "MKDS Mission Mode 5": {
+    "connects_to": [],
+    "requires": "|MKDS Mission Mode Pack 5|"
+  },
+  "MKDS Mission Mode 6": {
+    "connects_to": [],
+    "requires": "|MKDS Mission Mode Pack 6|"
+  },
+  "MKDS Mission Mode 7": {
+    "connects_to": [],
+    "requires": "|MKDS Mission Mode Pack 7|"
   },
   "MKWii": {
     "connects_to": [

@@ -2100,6 +2100,69 @@
         },
         {
             "count": 1,
+            "name": "MKDS Mission Mode Pack 1",
+            "category": [
+                "Mission Mode Level Packs",
+                "MKDS"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MKDS Mission Mode Pack 2",
+            "category": [
+                "Mission Mode Level Packs",
+                "MKDS"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MKDS Mission Mode Pack 3",
+            "category": [
+                "Mission Mode Level Packs",
+                "MKDS"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MKDS Mission Mode Pack 4",
+            "category": [
+                "Mission Mode Level Packs",
+                "MKDS"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MKDS Mission Mode Pack 5",
+            "category": [
+                "Mission Mode Level Packs",
+                "MKDS"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MKDS Mission Mode Pack 6",
+            "category": [
+                "Mission Mode Level Packs",
+                "MKDS"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MKDS Mission Mode Pack 7",
+            "category": [
+                "Mission Mode Level Packs",
+                "MKDS"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
             "name": "Mario",
             "category": [
                 "Characters",
