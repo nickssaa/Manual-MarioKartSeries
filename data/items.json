@@ -2100,6 +2100,132 @@
         },
         {
             "count": 1,
+            "name": "MKDS Balloon Battle",
+            "category": [
+                "Battle Mode",
+                "MKDS"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MKDS Shine Runners",
+            "category": [
+                "Battle Mode",
+                "MKDS"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MKWii Balloon Battle",
+            "category": [
+                "Battle Mode",
+                "MKWii"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MKWii Coin Runners",
+            "category": [
+                "Battle Mode",
+                "MKWii"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MK7 Balloon Battle",
+            "category": [
+                "Battle Mode",
+                "MK7"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MK7 Coin Runners",
+            "category": [
+                "Battle Mode",
+                "MK7"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MK8 Balloon Battle",
+            "category": [
+                "Battle Mode",
+                "MK8"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MK8 Renegade Roundup",
+            "category": [
+                "Battle Mode",
+                "MK8"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MK8 Bob-omb Blast",
+            "category": [
+                "Battle Mode",
+                "MK8"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MK8 Coin Runners",
+            "category": [
+                "Battle Mode",
+                "MK8"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MK8 Shine Thief",
+            "category": [
+                "Battle Mode",
+                "MK8"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MKWld Balloon Battle",
+            "category": [
+                "Battle Mode",
+                "MKWld"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MKWld Bob-omb Blast",
+            "category": [
+                "Battle Mode",
+                "MKWld"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "MKWld Coin Runners",
+            "category": [
+                "Battle Mode",
+                "MKWld"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
             "name": "MKDS Mission Mode Pack 1",
             "category": [
                 "Mission Mode Level Packs",
