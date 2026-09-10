@@ -11408,6 +11408,54 @@
       "requires": ""
     },
     {
+      "name": "Propeller Rally (50cc)",
+      "region": "MKWld Propeller Rally",
+      "category": ["MKWld Propeller Rally"],
+      "requires": ""
+    },
+    {
+      "name": "Propeller Rally (100cc)",
+      "region": "MKWld Propeller Rally",
+      "category": ["MKWld Propeller Rally"],
+      "requires": ""
+    },
+    {
+      "name": "Propeller Rally (150cc)",
+      "region": "MKWld Propeller Rally",
+      "category": ["MKWld Propeller Rally"],
+      "requires": ""
+    },
+    {
+      "name": "Propeller Rally (MM)",
+      "region": "MKWld Propeller Rally",
+      "category": ["MKWld Propeller Rally"],
+      "requires": ""
+    },
+    {
+      "name": "Turnip Rally (50cc)",
+      "region": "MKWld Turnip Rally",
+      "category": ["MKWld Turnip Rally"],
+      "requires": ""
+    },
+    {
+      "name": "Turnip Rally (100cc)",
+      "region": "MKWld Turnip Rally",
+      "category": ["MKWld Turnip Rally"],
+      "requires": ""
+    },
+    {
+      "name": "Turnip Rally (150cc)",
+      "region": "MKWld Turnip Rally",
+      "category": ["MKWld Turnip Rally"],
+      "requires": ""
+    },
+    {
+      "name": "Turnip Rally (MM)",
+      "region": "MKWld Turnip Rally",
+      "category": ["MKWld Turnip Rally"],
+      "requires": ""
+    },
+    {
       "name": "SNES Mario Circuit 1 (MKWld) (50cc)",
       "region": "MKWld Bonus SNES Tracks (50cc)",
       "category": ["MKWld Bonus SNES Tracks"],

@@ -2100,6 +2100,24 @@
         },
         {
             "count": 1,
+            "name": "Propeller Rally",
+            "category": [
+                "Cups",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
+            "name": "Turnip Rally",
+            "category": [
+                "Cups",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
             "name": "MKDS Balloon Battle",
             "category": [
                 "Battle Mode",
