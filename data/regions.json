@@ -2121,6 +2121,8 @@
       "MKWld Heart Rally",
       "MKWld Drill Rally",
       "MKWld Boomerang Rally",
+      "MKWld Propeller Rally",
+      "MKWld Turnip Rally",
       "MKWld Bonus SNES Tracks (50cc)",
       "MKWld Bonus SNES Tracks (100cc)",
       "MKWld Bonus SNES Tracks (150cc)",
@@ -2331,6 +2333,14 @@
   "MKWld Boomerang Rally": {
     "connects_to": [],
     "requires": "|Boomerang Rally|"
+  },
+  "MKWld Propeller Rally": {
+    "connects_to": [],
+    "requires": "|Propeller Rally|"
+  },
+  "MKWld Turnip Rally": {
+    "connects_to": [],
+    "requires": "|Turnip Rally|"
   },
   "MKWld Bonus SNES Tracks (50cc)": {
     "connects_to": [],
