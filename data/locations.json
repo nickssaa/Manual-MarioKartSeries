@@ -11480,6 +11480,12 @@
       "requires": ""
     },
     {
+      "name": "SNES Mario Circuit 1 (MKWld) (TT)",
+      "region": "MKWld Bonus SNES Tracks (TT)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
       "name": "SNES Mario Circuit 2 (MKWld) (50cc)",
       "region": "MKWld Bonus SNES Tracks (50cc)",
       "category": ["MKWld Bonus SNES Tracks"],
@@ -11500,6 +11506,12 @@
     {
       "name": "SNES Mario Circuit 2 (MKWld) (MM)",
       "region": "MKWld Bonus SNES Tracks (MM)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Mario Circuit 2 (MKWld) (TT)",
+      "region": "MKWld Bonus SNES Tracks (TT)",
       "category": ["MKWld Bonus SNES Tracks"],
       "requires": ""
     },
@@ -11528,6 +11540,12 @@
       "requires": ""
     },
     {
+      "name": "SNES Mario Circuit 3 (MKWld) (TT)",
+      "region": "MKWld Bonus SNES Tracks (TT)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
       "name": "SNES Ghost Valley 1 (MKWld) (50cc)",
       "region": "MKWld Bonus SNES Tracks (50cc)",
       "category": ["MKWld Bonus SNES Tracks"],
@@ -11548,6 +11566,12 @@
     {
       "name": "SNES Ghost Valley 1 (MKWld) (MM)",
       "region": "MKWld Bonus SNES Tracks (MM)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Ghost Valley 1 (MKWld) (TT)",
+      "region": "MKWld Bonus SNES Tracks (TT)",
       "category": ["MKWld Bonus SNES Tracks"],
       "requires": ""
     },
@@ -11576,6 +11600,12 @@
       "requires": ""
     },
     {
+      "name": "SNES Ghost Valley 2 (MKWld) (TT)",
+      "region": "MKWld Bonus SNES Tracks (TT)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
       "name": "SNES Ghost Valley 3 (MKWld) (50cc)",
       "region": "MKWld Bonus SNES Tracks (50cc)",
       "category": ["MKWld Bonus SNES Tracks"],
@@ -11596,6 +11626,12 @@
     {
       "name": "SNES Ghost Valley 3 (MKWld) (MM)",
       "region": "MKWld Bonus SNES Tracks (MM)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Ghost Valley 3 (MKWld) (TT)",
+      "region": "MKWld Bonus SNES Tracks (TT)",
       "category": ["MKWld Bonus SNES Tracks"],
       "requires": ""
     },
@@ -11624,6 +11660,12 @@
       "requires": ""
     },
     {
+      "name": "SNES Choco Island 1 (MKWld) (TT)",
+      "region": "MKWld Bonus SNES Tracks (TT)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
       "name": "SNES Choco Island 2 (MKWld) (50cc)",
       "region": "MKWld Bonus SNES Tracks (50cc)",
       "category": ["MKWld Bonus SNES Tracks"],
@@ -11644,6 +11686,12 @@
     {
       "name": "SNES Choco Island 2 (MKWld) (MM)",
       "region": "MKWld Bonus SNES Tracks (MM)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Choco Island 2 (MKWld) (TT)",
+      "region": "MKWld Bonus SNES Tracks (TT)",
       "category": ["MKWld Bonus SNES Tracks"],
       "requires": ""
     },
@@ -11672,6 +11720,12 @@
       "requires": ""
     },
     {
+      "name": "SNES Koopa Beach 1 (MKWld) (TT)",
+      "region": "MKWld Bonus SNES Tracks (TT)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
       "name": "SNES Vanilla Lake 1 (MKWld) (50cc)",
       "region": "MKWld Bonus SNES Tracks (50cc)",
       "category": ["MKWld Bonus SNES Tracks"],
@@ -11692,6 +11746,12 @@
     {
       "name": "SNES Vanilla Lake 1 (MKWld) (MM)",
       "region": "MKWld Bonus SNES Tracks (MM)",
+      "category": ["MKWld Bonus SNES Tracks"],
+      "requires": ""
+    },
+    {
+      "name": "SNES Vanilla Lake 1 (MKWld) (TT)",
+      "region": "MKWld Bonus SNES Tracks (TT)",
       "category": ["MKWld Bonus SNES Tracks"],
       "requires": ""
     },
