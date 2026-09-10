@@ -2127,6 +2127,7 @@
       "MKWld Bonus SNES Tracks (100cc)",
       "MKWld Bonus SNES Tracks (150cc)",
       "MKWld Bonus SNES Tracks (MM)",
+      "MKWld Bonus SNES Tracks (TT)",
       "MKWld Balloon Battle",
       "MKWld Bob-omb Blast",
       "MKWld Coin Runners"
@@ -2357,6 +2358,10 @@
   "MKWld Bonus SNES Tracks (MM)": {
     "connects_to": [],
     "requires": "|MKWld Bonus SNES Tracks (MM)|"
+  },
+  "MKWld Bonus SNES Tracks (TT)": {
+    "connects_to": [],
+    "requires": "|MKWld Bonus SNES Tracks (TT150)|"
   },
   "MKWld Balloon Battle": {
     "connects_to": [],

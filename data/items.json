@@ -2010,6 +2010,15 @@
         },
         {
             "count": 1,
+            "name": "MKWld Bonus SNES Tracks (TT150)",
+            "category": [
+                "Cups",
+                "Cups (MKWld)"
+            ],
+            "progression": true
+        },
+        {
+            "count": 1,
             "name": "Golden Rally",
             "category": [
                 "Cups",
